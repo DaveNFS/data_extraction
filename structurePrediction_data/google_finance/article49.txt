@@ -1,0 +1,12 @@
+ValueWalk
+
+New Facebook Inc Ad Platform Atlas Will Challenge Google Inc
+
+Facebook's new Atlas ad platform will help convince of the value of Facebook ads
+It its third quarter earnings report earlier this week, Facebook Inc (NASDAQ:FB) CEO Mark Zuckerberg stunned Wall Street analysts and investors alike when he announced that spending would be around 75% for the firm next year ($10-12 billion). Exactly what all those extra billions are going to be spent on in 2015 remains a bit murky, but it appears at least of good chunk of the money will go to develop Facebook¡¯s new high-tech ad platform Atlas.
+Facebook bought Atlas from Microsoft Corporation (NASDAQ:MSFT) back in the first quarter of 2013.
+
+Atlas is designed to function horizontally across all of Facebook¡¯s apps. It can deal with core apps, Newsfeed and Mobile, and apps from acquisitions, Instagram, WhatsApp and Messenger. Atlas also works with apps from Facebook¡¯s developer community.
+The basic model for Atlas is to find a ¡°look-alike¡± group to deliver relevant ads from. Atlas looks for relevant demographic characteristics, such as age and gender. The app also takes location into account as it applies to mobile users, for example, if you are near the street corner of a sushi restaurant, how about a discount coupon? Moreover, the platform matches ad views to purchases by brand to monetize the system.
+Also included in Atlas is a tracking system that follows users who are logged in across all their computing devices. The system has basic information about the user and tracks all the ads they see. Advertisers today want to know a purchaser had an ad impression relating to a sale. Atlas leverages cookies and a Facebook ID to identify users on websites. On mobile, it utilizes a Facebook ID, Apple ID or Android ID. Atlas can then match ad histories to specific purchases.
+It¡¯s no secret that Facebook Inc (NASDAQ:FB)?wants to cut into Google¡¯s dominance of the online advertising sector. The Atlas suite, together with data from Nielsen and Datalogix, can determine the performance of Facebook ads against both online competitors and other media firms. The goal is for Atlas to prove to major corporations that Facebook¡¯s social ads give you more verifiable bang for your advertising buck.

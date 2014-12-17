@@ -1,0 +1,1 @@
+('NASDAQ', 'NNP')('QQQ', 'NNP')

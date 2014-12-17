@@ -1,0 +1,227 @@
+
+                              830 of 858 DOCUMENTS
+
+
+
+
+
+                                  PR Newswire
+
+
+
+                             April 12, 2004 Monday
+
+
+
+Light Reading Insider Analyzes Passive Optical Networking for FTTP Deployments
+
+
+
+SECTION: FINANCIAL NEWS
+
+
+
+LENGTH: 629 words
+
+
+
+DATELINE: NEW YORK April 12
+
+
+
+
+
+The North American passive optical networking (PON) and fiber to the premises
+
+(FTTP) market may be hot, but it's going to get a lot hotter in 2005 and 2006,
+
+as an influx of new products and service provider RFPs add fuel to the fire,
+
+according to a new report from Light Reading (www.lightreading.com).
+
+
+
+The report -- entitled "Passive Optical Networks: 21st Century Access?" and
+
+published by the subscription research service Light Reading Insider,
+
+(www.lightreading.com/insider) -- evaluates technology choices, vendor
+
+strategies, and the lessons to be learned from PON activity throughout the
+
+world. A bright future is expected for PON as the centerpiece of carriers'
+
+triple-play services over FTTP.
+
+
+
+"In the near term, greenfield deployments, especially by utilities and
+
+municipalities with long-term ROI expectations, will be the main addressable
+
+market," says Daro Clark, the report's author. "But FTTP will not result in
+
+higher RBOC capex; it will simply replace spending on legacy copper
+
+infrastructure."
+
+
+
+This report looks at the recent customer trends in FTTP/PON and explores the
+
+barriers to widespread deployment. The Insider's conclusions include:
+
+
+
+* The RBOC's choice of the BPON standard is the strongest validation of
+
+ PON technology in the U.S. to date.
+
+ * Verizon is the most ambitious RBOC, while SBC and BellSouth are less
+
+ convinced of FTTP's short-term proposition.
+
+ * Beyond the RBOCs, the opportunities are plentiful: Independent telcos,
+
+ cable and utility companies, municipalities, and real estate developers
+
+ provide PON vendors with a captive but fragmented market.
+
+     * PON equipment prices will decline 20 percent to 30 percent in the next
+
+       two years.
+
+     * Regulatory uncertainty regarding RBOC unbundling commitments and other
+
+       companies' rights to offer PON-based services is keeping in the
+
+       industry at the bleeding edge.
+
+     * With over 1 million FTTP subscribers and a projected 5 million by the
+
+       end of 2005, Japan is the test bed for next-gen access networks.
+
+     * The race is on between the EPON and GPON standards for industry
+
+       acceptance, but ultimately the customers' existing network technologies
+
+       will force their decisions.
+
+
+
+Private vendors analyzed in this report: Optical Solutions Inc.; Salira Optical
+
+Networking Systems Inc.; Alloptic Inc.; CEOS Pty Ltd., and Flexlight Networks
+
+Inc.
+
+
+
+Public vendors analyzed in this report: Advanced Fibre Communications Inc.
+
+(Nasdaq: AFCI), Alcoa Fujikura Ltd. (Jointly owned by Alcoa Inc. $(NYSE: AA$)
+
+and Fujikura Ltd.), Alcatel SA (NYSE: ALA), Fujitsu Ltd. (OTC Bulletin Board:
+
+FJTSY), and Hitachi Ltd. (NYSE: HIT)
+
+
+
+The report is available as part of an annual subscription to the monthly Light
+
+Reading Insider, which is priced at $1,350. The subscription includes 12 monthly
+
+reports covering the hottest wireline equipment and services markets. Individual
+
+reports are available for $900.
+
+
+
+To subscribe, or to get more information, please visit:
+
+http://www.lightreading.com/ad_redirect.asp?ad_id=2623
+
+
+
+About Light Reading Insider
+
+
+
+Light Reading Insider (www.lightreading.com/insider), an electronic research
+
+service of Light Reading (www.lightreading.com), provides independent analysis
+
+to investors and industry leaders tracking the latest developments in the
+
+telecommunications industry.
+
+
+
+Marketing Contact:
+
+     Laura West
+
+     Marketing Director
+
+     Light Reading Insiders
+
+     212-925-0020 x105
+
+     west@lightreading.com
+
+
+
+Sales Contact:
+
+     Dave Williams
+
+     Sales Director
+
+     Light Reading Insiders
+
+     415-293-8470
+
+     dave.williams@heavyreading.com
+
+
+
+SOURCE Light Reading
+
+
+
+CONTACT: Laura West, Marketing Director, +1-212-925-0020, ext. 105,
+
+west@lightreading.com, or Dave Williams, Sales Director, +1-415-293-8470,
+
+dave.williams@heavyreading.com, both of Light Reading Insiders
+
+
+
+URL: http://www.prnewswire.com
+
+
+
+LOAD-DATE: April 13, 2004
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+DISTRIBUTION: TO BUSINESS AND TECHNOLOGY EDITORS
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+                  Copyright 2004 PR Newswire Association, Inc.
+
+
+
+
+

@@ -1,0 +1,11 @@
+SunTrust: Platform Algorithms Are 'Evolving Entities'
+
+In a note to clients on Monday, Robert Peck of SunTrust Robinson Humphrey emphasized the important of monitoring platform algorithms.
+The note follows Facebook Inc's (NASDAQ: FB) move on Friday in which the company changed how it shows posts in the News Feed. A user's News Feed, and the order in which it is presented is dictated by an algorithm that is designed to maximize the user experience and at the same time maximizing monetization potentials for Facebook.
+According to Peck, Facebook was just one of the major platforms that recently made algorithm changes.
+"These changes underscore something that we have believed for a while: that a platform's ¡®algorithm' is a living/breathing entity that is constantly evolving," Peck wrote. The analyst notes that Google Inc (NASDAQ: GOOG) makes "small tweaks" to its algorithm one to two times daily.
+Peck explains in Google's case the usefulness of the information it provides must correspond with relevant ads and results. In Facebook's case it means the algorithm must results in content that is relevant and engaging to the user.
+Algorithms also benefit a user's experience as it can remove "spammy" posts from marketers.
+"While we think any algorithm change can have an impact on the short term performance, investors must consider the long term impacts as well, as this will dictate the long term health of the platform and ultimately their investment," Peck concludes.
+Posted-In: algorithm Facebook Facebook News Feed Google Robert PeckAnalyst Color Analyst Ratings Tech
+? 2014 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

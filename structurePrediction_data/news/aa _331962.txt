@@ -1,0 +1,2535 @@
+aa,PR Newswire,20101115,9:09,331962
+                              281 of 858 DOCUMENTS
+
+
+
+
+
+                                  PR Newswire
+
+
+
+                      November 15, 2010 Monday 9:09 AM EST
+
+
+
+Reportlinker Adds Global Electronic Thermal Management Industry
+
+
+
+LENGTH: 4811 words
+
+
+
+DATELINE: NEW YORK, Nov. 15, 2010
+
+
+
+
+
+NEW YORK, Nov. 15, 2010 /PRNewswire/ -- Reportlinker.com announces that a new
+
+market research report is available in its catalogue:
+
+
+
+Global Electronic Thermal Management Industry
+
+
+
+http://www.reportlinker.com/p080463/Global-Electronic-Thermal-Management-Industr
+
+y.html
+
+
+
+This report analyzes the worldwide markets for Electronic Thermal Management in
+
+US$ Million by the following end-use segments: Computers, Telecom,
+
+Medical/Office Equipment, Industrial/Military, Consumer Electronics, and
+
+Automotive. Also, the report provides market analytics for the Global and US
+
+market for the product segments - Hardware, Software, and Interfaces &
+
+Substrates. Annual estimates and forecasts are provided for the period 2007
+
+through 2015. A six-year historic analysis is also provided for these markets.
+
+The report profiles 158 companies including many key and niche players such as
+
+II-VI, Incorporated, Marlow Industries, Aavid Thermalloy, LLC, Advanced Thermal
+
+Solutions, Inc., Alcoa, Inc., Alpha Metals, Alpha Technologies Group, Inc.,
+
+Ametek, Inc., Amkor Technology, Inc., Ansys, Inc., Ansoft Corporation, Fluent,
+
+Inc., ASAT Holdings Ltd., Brush Engineered Materials, Inc., Ceramics Process
+
+Systems Corporation, Chomerics, Comair Rotron, Inc., Cookson Electronics
+
+Assembly Materials, Cool Innovations, Inc., Cooler Master Co., Ltd., C-Therm
+
+Technologies Ltd., CTS Corporation, Daat Research Corp., Degree Controls, Inc.,
+
+Dow Corning Corporation, Dynatron Corporation, Enertron, Inc., Ferraz Shawmut,
+
+LLC, Fujikura Ltd., Henkel Loctite Corporation, Honeywell Electronic Materials,
+
+Intricast Company Inc., ITW Vortec, JARO Components, Inc., Kooltronic, Inc.,
+
+Kyocera Corporation, Laird Technologies, Liebert Corporation, Lord Corporation,
+
+Lytron Incorporated, Mentor Graphics Corporation, Metal Matrix Cast Composites,
+
+LLC, Micronel U.S., Netzsch Instruments, Inc.., Netzsch Thermal Analysis, NMB
+
+Technologies Corporation, Noren Products, Inc.., Orient Semiconductor
+
+Electronics Ltd., PC Power & Cooling, Inc.., Pfannenberg, Inc., PLANSEE Thermal
+
+Management Solutions, Sumitomo Electric Industries, Ltd., Tech Spray, L. P.,
+
+Tellurex Corp., Tennmax United, The Bergquist Company, The Filter Factory, Inc.,
+
+Thermacore, Transene Company, Inc., U.S. Toyo Fan Corporation, United Thermal
+
+Engineering Corporation, Vette Corp., and Wakefield Thermal Solutions, Inc.
+
+Market data and analytics are derived from primary and secondary research.
+
+Company profiles are mostly extracted from URL research and reported select
+
+online sources.
+
+
+
+ELECTRONIC THERMAL MANAGEMENT MCP-1523
+
+
+
+A GLOBAL STRATEGIC BUSINESS REPORT
+
+
+
+CONTENTS
+
+
+
+1. INTRODUCTION, METHODOLOGY & PRODUCT DEFINITIONS 1
+
+
+
+Study Reliability and Reporting Limitations 1
+
+
+
+Disclaimers 2
+
+
+
+Data Interpretation & Reporting Level 3
+
+
+
+Quantitative Techniques & Analytics 3
+
+
+
+Product Definitions and Scope of Study 3
+
+
+
+End-Use Segments 4
+
+
+
+1. Computers 4
+
+
+
+2. Telecom 4
+
+
+
+3. Medical/Office Equipment 4
+
+
+
+4. Industrial/Military 4
+
+
+
+5. Consumer Electronics 5
+
+
+
+6. Automotive 5
+
+
+
+Product Segments 5
+
+
+
+1. Hardware 5
+
+
+
+2. Software 5
+
+
+
+3. Interfaces and Substrates 5
+
+
+
+2. INDUSTRY OVERVIEW 6
+
+
+
+Sophisticated Technology Needs Effective Thermal Management 6
+
+
+
+Current and Future Analysis 6
+
+
+
+Regional Perspective 6
+
+
+
+End-Use Perspective 6
+
+
+
+Product Segment Perspective 7
+
+
+
+3. MARKET TRENDS 8
+
+
+
+Recession Impacts the Market 8
+
+
+
+Rising Complexities Present Lucrative Opportunities for
+
+
+
+Electronic Thermal Management 8
+
+
+
+PC Market Stimulates Growth 8
+
+
+
+Thermal Management Subsystems Set for Robust Growth 8
+
+
+
+New Technologies Under Development 9
+
+
+
+Liquid Cooling Gaining Foothold 9
+
+
+
+Semiconductor Manufacturers Look for Thermal Management
+
+
+
+Technology 9
+
+
+
+Heat Pipe Gains Popularity among PC Manufacturers 10
+
+
+
+Imminent Growth for ICs 10
+
+
+
+4. PRODUCT OVERVIEW 11
+
+
+
+Thermal Management - A Critical Function 11
+
+
+
+Electronic Thermal Management Products 11
+
+
+
+Hardware 11
+
+
+
+Heat Sinks 11
+
+
+
+Heat Pipes 11
+
+
+
+Micro Channels 12
+
+
+
+Spray Cooling 12
+
+
+
+Electronic Cooling Fans 12
+
+
+
+Metal Backplanes 12
+
+
+
+BGAs 13
+
+
+
+Software 13
+
+
+
+Computational Methods of Heat Transfer (CHT) and Fluid
+
+
+
+Dynamics (CFD) 13
+
+
+
+Electronic Design Automation (EDA) Software, Electronic
+
+
+
+Computer Aided Design (ECAD) Software, and Technology
+
+
+
+Computer Aided Design (TCAD) Software 13
+
+
+
+Interfaces and Substrates 14
+
+
+
+Thermal Compounds and Thermal Interface Materials 14
+
+
+
+Thermal Management Applications 15
+
+
+
+Computers 15
+
+
+
+Notebooks/Laptops 15
+
+
+
+Servers 16
+
+
+
+Embedded PCs 16
+
+
+
+Telecom 16
+
+
+
+Medical 16
+
+
+
+Industrial Electronics 17
+
+
+
+Aerospace/Military 17
+
+
+
+Consumer Electronics 17
+
+
+
+Automotive 17
+
+
+
+5. COMPETITIVE ENVIRONMENT IN RECENT PAST 18
+
+
+
+Thermal Management - A Fragmented Market 18
+
+
+
+Table 1: Leading Vendors in the Worldwide Thermal Management
+
+
+
+Market (2006 & 2007) - Percentage Breakdown by Value Sales
+
+
+
+for Amkor, Aavid Thermalloy, Fluent, Chomerics, Kyocera, and
+
+
+
+Others (includes corresponding Graph/Chart) 18
+
+
+
+Thermal Management Hardware Market 19
+
+
+
+Table 2: Leading Players in the Worldwide Thermal Management
+
+
+
+Hardware Market (2006 & 2007) - Percentage Breakdown by Value
+
+
+
+Sales for Aavid Thermalloy, Thermacore, Lytron, and Others
+
+
+
+(includes corresponding Graph/Chart) 19
+
+
+
+Fluent - The Undisputed Thermal Management S/W Market Leader 20
+
+
+
+Table 3: Leading Players in the Worldwide Thermal Management
+
+
+
+Software Market (2006 & 2007) - Percentage Breakdown by Value
+
+
+
+Sales for Fluent, Ansys, Flomerics, Daat, and Others
+
+
+
+(includes corresponding Graph/Chart) 20
+
+
+
+Chomerics and Bergquist Lead Thermal Management Interface Market 21
+
+
+
+Table 4: Leading Players in the Worldwide Thermal Management
+
+
+
+Interface Market (2006 & 2007) - Percentage Breakdown by
+
+
+
+Value Sales for Chomerics, Bergquist, Aavid Thermalloy,
+
+
+
+Lytron, and Others (includes corresponding Graph/Chart) 21
+
+
+
+Amkor Dominates Thermal Management Substrate Market 22
+
+
+
+Table 5: Leading Players in the Worldwide Thermal Management
+
+
+
+Substrate Market (2006 & 2007) - Percentage Breakdown by
+
+
+
+Value Sales for Amkor, Kyocera, ST ChipPAC, OSE, ASAT, and
+
+
+
+Others (includes corresponding Graph/Chart) 22
+
+
+
+6. PRODUCT INTRODUCTIONS/INNOVATIONS 23
+
+
+
+LORD Unveils MT-815 Low Modulus Increased Thermal Conductivity
+
+
+
+Adhesive 23
+
+
+
+Thermaltake Introduces Thermaltake SlimX3 23
+
+
+
+Honeywell Electronic Materials Launches Honeywell PCM45M-SP 23
+
+
+
+AdaptivCool Develops HotSpotr HT-510 24
+
+
+
+Nuventix Introduces SynJet Spot Light Cooler 25
+
+
+
+DSM Engineering Plastics Unveils Thermally Conductive PA46
+
+
+
+Material 25
+
+
+
+Micropelt Launches MPC-D40x Thermoelectric Coolers 25
+
+
+
+Pfannenberg Unveils New DTS 3000 Side-Mount Cooling Units 26
+
+
+
+California Micro Devices Launches LuxGuard(TM) CM1771 26
+
+
+
+Honeywell Unveils Pb-free Die Attach Solder 26
+
+
+
+Nuventix Introduces New Line of SynJet Coolers 27
+
+
+
+Indium Launches Heat-Spring® Thermal Interface Material 27
+
+
+
+Parker Hannifin Launches Two-Phase Liquid Cooling System 28
+
+
+
+Nuventix and National Semiconductor Launch Electronic Drive
+
+
+
+and Reference Design 28
+
+
+
+Honeywell International Unveils Honeywell PTM 3180 29
+
+
+
+RS Components Unveils New Thermal Management Solutions 29
+
+
+
+Arun Components Launches Alutronic Line of Heatsink Systems 30
+
+
+
+Nextreme Thermal Solutions Introduces New Series of OptoCooler
+
+
+
+High Voltage Modules 30
+
+
+
+Vette Introduces Aluma-Cop Liquid Cooling 31
+
+
+
+SprayCool Launches Multi-Platform Enclosure 31
+
+
+
+Celsia Technologies Unveils Advanced NanoSpreader 31
+
+
+
+STABLCOR Introduces ST10-LC909 Products 32
+
+
+
+7. PRODUCT INNOVATIONS/LAUNCHES IN RECENT PAST - A PERSPECTIVE
+
+
+
+BUILDER 33
+
+
+
+SMART Releases Liquid-Cooled VLP DDR2 Registered DIMMs 33
+
+
+
+LORD Develops Materials for Thermal Management 33
+
+
+
+Dow Corning Introduces New Thermally Conductive Compound 33
+
+
+
+Astrosyn Unveils a Range of Slide-fit Heatsink Enclosures 34
+
+
+
+Dell Develops a Liquid-Cooled Heat Sink 34
+
+
+
+Fujipoly America Develops an Innovative Thermal Interface
+
+
+
+Material 34
+
+
+
+Flomerics to Offer T3Ster Thermal Testing System 34
+
+
+
+Andigilog® Develops ThermalEdge(TM) Cooling Technology 34
+
+
+
+Andigilog® Introduces Thermal Management Solutions 35
+
+
+
+Celsia Releases MicroSpreader(TM) 35
+
+
+
+Sunon Develops Liquid Circulation Cooling System 35
+
+
+
+EBM-PAPST Develops Advanced Liquid Cooling System 36
+
+
+
+EBM-PAPST Introduces New Fan-Cooling Technology 36
+
+
+
+Hybricon Introduces Liquid-Cooled ATR Chassis 36
+
+
+
+Ansoft Launches Latest Version of ePhysics as ePhysics v2 37
+
+
+
+CTS Launches New Line of Low-Profile Forged Heat Sinks 37
+
+
+
+Honeywell Introduces Screen Printable Phase Change Material in
+
+
+
+Chip Manufacture 37
+
+
+
+Laird Launches Thermally Conductive, Electrically Insulating
+
+
+
+T-preg(TM) HTD for PCBs 38
+
+
+
+Laird Introduces Deep Drawing Capability for Shielding
+
+
+
+Applications 38
+
+
+
+Laird Introduces Low-Cost T-Gard(TM) for SMPS Devices 38
+
+
+
+Laird Introduces T-Gard(TM) 500 High Performance Insulator for
+
+
+
+Automotive Industry 39
+
+
+
+Jaro Develops 450 CFM AC Cooling Fan for Industrial Use 39
+
+
+
+Jaro Develops IC Cooling Fan With High Flow and Cooling Value 39
+
+
+
+Mathis Develops Mathis TCi(TM) For Improved Thermal Conductivity
+
+
+
+Testing 39
+
+
+
+Melcor Introduces Extrusion Heat Sinks With Improved Performance 39
+
+
+
+Fluent Launches New Environmental Thermal Audit Solution for
+
+
+
+Data Centers 40
+
+
+
+Kooltronic Introduces Advanced Enclosure Accessories 40
+
+
+
+Pfannerberg Develops Filterfan® 40
+
+
+
+8. RECENT INDUSTRY ACTIVITY 41
+
+
+
+Thermacore Snaps Up Pittsburgh Materials Technology 41
+
+
+
+Parker Hannifin Takes Over SprayCool 41
+
+
+
+Dow Kokam Acquires Societe de Vehicles Electriques 41
+
+
+
+BorgWarner Establishes Manufacturing Plant 42
+
+
+
+MAHLE Acquires Majority Stake in BEHR Industry 42
+
+
+
+CoolIT Systems Takes Over Assets of Delphi Thermal Liquid Cooling 42
+
+
+
+Curtiss-Wright Snaps Up EST Group 43
+
+
+
+Arlington Capital Partners Acquires J.A. Reinhardt 43
+
+
+
+Thermacore Takes Over k Technology 43
+
+
+
+IBM Collaborates with Vette 44
+
+
+
+Bias Power Collaborates with Nuventix 44
+
+
+
+Roal Electronics Collaborates with Nuventix 45
+
+
+
+Electronic Environments Inks Partnership Agreement with
+
+
+
+AdaptivCool 45
+
+
+
+Asetek Forms Alliance with Corsair 45
+
+
+
+AdaptivCool and Yamatake Sign Agreement 46
+
+
+
+Toyal America forms Alliance with E.W. Kaufmann 46
+
+
+
+Stablcor and Elvia PCB Group Ink Licensing Agreement 46
+
+
+
+Weidmann Electrical Technology and LumaSense Technologies Ink
+
+
+
+Strategic Partnership Agreement 46
+
+
+
+Thermacore Bags Contract from Defense Advanced Research
+
+
+
+Projects Agency 47
+
+
+
+Waytronx Takes Over CUI 47
+
+
+
+Photochemie Signs Licensing Agreement with Stablcor 47
+
+
+
+ON Semiconductor Establishes Research and Development Centre 48
+
+
+
+Stablcor and Graphic Ink Licensing Agreement 48
+
+
+
+Texas Instruments Takes Over Commergy Technologies 48
+
+
+
+Thermal Energy International Takes Over Gardner Energy Management 48
+
+
+
+nCoat Inks Agreement with BSR Solar Technologies and
+
+
+
+Sunvention USA 48
+
+
+
+CSP Inc. MultiComputer Division Signs Agreement with
+
+
+
+SprayCool® Technologies 49
+
+
+
+Mentor Graphics Takes Over Flomerics Group 49
+
+
+
+Modine Divests Thermacore 49
+
+
+
+9. CORPORATE ACTIVITY IN RECENT PAST - A PERSPECTIVE BUILDER 50
+
+
+
+Moog Takes Over Thermal Control Products 50
+
+
+
+Rensselaer Teams Up with Varsities to Develop Cooling Techniques 50
+
+
+
+Laird Partners with Sager Electronics 51
+
+
+
+Honeywell to Expand R&D Facility 51
+
+
+
+Vette Adds ERM 51
+
+
+
+Laird Takes Over Supercool 52
+
+
+
+Arlington Capital Acquires Woven Electronics Through Thermal
+
+
+
+Solutions 52
+
+
+
+Parker Hannifin Purchases Acofab and Adecem 52
+
+
+
+Ametek Adds Land Instruments 52
+
+
+
+Lytron Adds Lockhart Industries 53
+
+
+
+Seki Technotron Purchases 10% Interest in sp3 Inc. 53
+
+
+
+OnScreen Purchases Patent of WayCool Thermal Cooling Technology 53
+
+
+
+Flomerics Acquires NIKA 54
+
+
+
+Aavid Merges with Ansys and Spins-Off Thermal Management Business 54
+
+
+
+Celsia and Yeh-Chiang Sign Agreement 54
+
+
+
+Nextreme Inks License Deal with Caltech 54
+
+
+
+Celsia Signs Sales & Development Pact with Lighting Science 55
+
+
+
+Celsia Contracts with Kubo to Expand in Japan 55
+
+
+
+Hybricon and Parker Hannifin Sign Pact for Cooling Solutions 55
+
+
+
+Rogers and Thermal Transfer Composites Partner 56
+
+
+
+sp3 Partners with CPS 56
+
+
+
+Celsia Teams Up with AET 56
+
+
+
+Mathis Forms Distribution Partnership with Setaram
+
+
+
+Instrumentation 57
+
+
+
+10. FOCUS ON SELECT PLAYERS 58
+
+
+
+VI, Incorporated (US) 58
+
+
+
+Marlow Industries (US) 58
+
+
+
+Aavid Thermalloy, LLC (US) 58
+
+
+
+Advanced Thermal Solutions, Inc. (US) 58
+
+
+
+Alcoa, Inc. (US) 59
+
+
+
+Alpha Technologies, Inc. (US) 59
+
+
+
+Ametek, Inc. (US) 59
+
+
+
+Amkor Technology, Inc. (US) 60
+
+
+
+Ansys, Inc. (US) 60
+
+
+
+Ansoft Corporation (US) 61
+
+
+
+Fluent, Inc. (US) 61
+
+
+
+ASAT Holdings Ltd. (Hong Kong) 61
+
+
+
+Brush Engineered Materials, Inc. (US) 62
+
+
+
+Ceramics Process Systems Corporation (US) 62
+
+
+
+Chomerics (US) 62
+
+
+
+Comair Rotron, Inc. (US) 63
+
+
+
+Cookson Electronics Assembly Materials (US) 63
+
+
+
+Cool Innovations, Inc. (US) 63
+
+
+
+Cooler Master Co., Ltd. (UK) 64
+
+
+
+C-Therm Technologies Ltd. (Canada) 64
+
+
+
+CTS Corporation (US) 64
+
+
+
+Daat Research Corp. (US) 65
+
+
+
+Degree Controls, Inc. (US) 65
+
+
+
+Dow Corning Corporation (US) 65
+
+
+
+Dynatron Corporation (US) 65
+
+
+
+Enertron, Inc. (US) 66
+
+
+
+Ferraz Shawmut, LLC (Canada) 66
+
+
+
+Fujikura Ltd. (Japan) 66
+
+
+
+Henkel Loctite Corporation (US) 66
+
+
+
+Honeywell Electronic Materials (US) 67
+
+
+
+Intricast Company Inc (US) 67
+
+
+
+ITW Vortec (US) 67
+
+
+
+JARO Components, Inc. (US) 68
+
+
+
+Kooltronic, Inc. (US) 68
+
+
+
+Kyocera Corporation (Japan) 68
+
+
+
+Laird Technologies (US) 68
+
+
+
+Liebert Corporation (US) 69
+
+
+
+Lord Corporation (US) 69
+
+
+
+Lytron Incorporated (US) 69
+
+
+
+Mentor Graphics Corporation (US) 69
+
+
+
+Metal Matrix Cast Composites, LLC (US) 70
+
+
+
+Micronel U.S. (US) 70
+
+
+
+Netzsch Instruments, Inc. (US) 70
+
+
+
+Netzsch Thermal Analysis (Germany) 70
+
+
+
+NMB Technologies Corporation (US) 71
+
+
+
+Noren Products, Inc. (US) 71
+
+
+
+Orient Semiconductor Electronics Ltd. (Taiwan) 71
+
+
+
+PC Power & Cooling, Inc. (US) 71
+
+
+
+Pfannenberg, Inc. (US) 72
+
+
+
+PLANSEE Thermal Management Solutions (US) 72
+
+
+
+Sumitomo Electric Industries, Ltd. (Japan) 72
+
+
+
+Tech Spray, L. P. (UK) 72
+
+
+
+Tellurex Corp. (US) 73
+
+
+
+Tennmax United (US) 73
+
+
+
+The Bergquist Company (US) 73
+
+
+
+The Filter Factory, Inc. (US) 74
+
+
+
+Thermacore (US) 74
+
+
+
+Transene Company, Inc. (US) 74
+
+
+
+U.S. Toyo Fan Corporation (US) 75
+
+
+
+United Thermal Engineering Corporation (US) 75
+
+
+
+Vette Corp. (US) 75
+
+
+
+Wakefield Thermal Solutions, Inc. (US) 76
+
+
+
+11. GLOBAL MARKET PERSPECTIVE 77
+
+
+
+Table 6: World Recent Past, Current & Future Analysis for
+
+
+
+Electronic Thermal Management by Geographic Region - US,
+
+
+
+Canada, Japan, Europe, Asia-Pacific (excluding Japan) and Rest
+
+
+
+of World Independently Analyzed with Annual Sales Figures in
+
+
+
+US$ Million for Years 2007 through 2015 (includes
+
+
+
+corresponding Graph/Chart) 77
+
+
+
+Table 7: World Historic Review for Electronic Thermal
+
+
+
+Management by Geographic Region - US, Canada, Japan, Europe,
+
+
+
+Asia-Pacific (excluding Japan), and Rest of World Markets
+
+
+
+Independently Analyzed with Annual Sales Figures in US$
+
+
+
+Million for Years 2001 through 2006 (includes corresponding
+
+
+
+Graph/Chart) 78
+
+
+
+Table 8: World 11-Year Perspective for Electronic Thermal
+
+
+
+Management by Geographic Region - Percentage Breakdown of
+
+
+
+Dollar Sales for US, Canada, Japan, Europe, Asia-Pacific
+
+
+
+(excluding Japan) and Rest of World Markets for Years 2005,
+
+
+
+2010 & 2015 (includes corresponding Graph/Chart) 79
+
+
+
+Table 9: World Recent Past, Current & Future Analysis for
+
+
+
+Electronic Thermal Management by Product Segment- Hardware,
+
+
+
+Software, and Interfaces & Substrates Independently Analyzed
+
+
+
+with Annual Sales Figures in US$ Million for Years 2007
+
+
+
+through 2015 (includes corresponding Graph/Chart) 80
+
+
+
+Table 10: World Historic Review for Electronic Thermal
+
+
+
+Management by Product Segment - Hardware, Software, and
+
+
+
+Interfaces & Substrates Markets Independently Analyzed with
+
+
+
+Annual Sales Figures in US$ Million for Years 2001 through
+
+
+
+2006 (includes corresponding Graph/Chart) 81
+
+
+
+Table 11: World 11-Year Perspective for Electronic Thermal
+
+
+
+Management by Product Segment - Percentage Breakdown of Dollar
+
+
+
+Sales for Hardware, Software, and Interfaces & Substrates
+
+
+
+Markets for Years 2005, 2010 & 2015 (includes corresponding
+
+
+
+Graph/Chart) 81
+
+
+
+Table 12: World Recent Past, Current & Future Analysis for
+
+
+
+Electronic Thermal Management in Computers by Geographic
+
+
+
+Region - US, Canada, Japan, Europe, Asia-Pacific (excluding
+
+
+
+Japan) and Rest of World Independently Analyzed with Annual
+
+
+
+Sales Figures in US$ Million for Years 2007 through 2015
+
+
+
+(includes corresponding Graph/Chart) 82
+
+
+
+Table 13: World Historic Review for Electronic Thermal
+
+
+
+Management in Computers by Geographic Region - US, Canada,
+
+
+
+Japan, Europe, Asia-Pacific (excluding Japan), and Rest of
+
+
+
+World Markets Independently Analyzed with Annual Sales Figures
+
+
+
+in US$ Million for Years 2001 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 83
+
+
+
+Table 14: World 11-Year Perspective for Electronic Thermal
+
+
+
+Management in Computers by Geographic Region - Percentage
+
+
+
+Breakdown of Dollar Sales for US, Canada, Japan, Europe,
+
+
+
+Asia-Pacific (excluding Japan) and Rest of World Markets for
+
+
+
+Years 2005, 2010 & 2015 (includes corresponding Graph/Chart) 84
+
+
+
+Table 15: World Recent Past, Current & Future Analysis for
+
+
+
+Electronic Thermal Management in Telecom by Geographic Region
+
+
+
+- US, Canada, Japan, Europe, Asia-Pacific (excluding Japan)
+
+
+
+and Rest of World Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2007 through 2015 (includes
+
+
+
+corresponding Graph/Chart) 85
+
+
+
+Table 16: World Historic Review for Electronic Thermal
+
+
+
+Management in Telecom by Geographic Region - US, Canada,
+
+
+
+Japan, Europe, Asia-Pacific (excluding Japan), and Rest of
+
+
+
+World Markets Independently Analyzed with Annual Sales Figures
+
+
+
+in US$ Million for Years 2001 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 86
+
+
+
+Table 17: World 11-Year Perspective for Electronic Thermal
+
+
+
+Management in Telecom by Geographic Region - Percentage
+
+
+
+Breakdown of Dollar Sales for US, Canada, Japan, Europe,
+
+
+
+Asia-Pacific (excluding Japan) and Rest of World Markets for
+
+
+
+Years 2005, 2010 & 2015 (includes corresponding Graph/Chart) 87
+
+
+
+Table 18: World Recent Past, Current & Future Analysis for
+
+
+
+Electronic Thermal Management in Medical/ Office Equipment by
+
+
+
+Geographic Region - US, Canada, Japan, Europe, Asia-Pacific
+
+
+
+(excluding Japan) and Rest of World Independently Analyzed
+
+
+
+with Annual Sales Figures in US$ Million for Years 2007
+
+
+
+through 2015 (includes corresponding Graph/Chart) 88
+
+
+
+Table 19: World Historic Review for Electronic Thermal
+
+
+
+Management in Medical/Office Equipment by Geographic Region -
+
+
+
+US, Canada, Japan, Europe, Asia-Pacific (excluding Japan), and
+
+
+
+Rest of World Markets Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2001 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 89
+
+
+
+Table 20: World 11-Year Perspective for Electronic Thermal
+
+
+
+Management in Medical/Office Equipment by Geographic Region -
+
+
+
+Percentage Breakdown of Dollar Sales for US, Canada, Japan,
+
+
+
+Europe, Asia-Pacific (excluding Japan) and Rest of World
+
+
+
+Markets for Years 2005, 2010 & 2015 (includes corresponding
+
+
+
+Graph/Chart) 90
+
+
+
+Table 21: World Recent Past, Current & Future Analysis for
+
+
+
+Electronic Thermal Management in Industrial/Military by
+
+
+
+Geographic Region - US, Canada, Japan, Europe, Asia-Pacific
+
+
+
+(excluding Japan) and Rest of World Independently Analyzed
+
+
+
+with Annual Sales Figures in US$ Million for Years 2007
+
+
+
+through 2015 (includes corresponding Graph/Chart) 91
+
+
+
+Table 22: World Historic Review for Electronic Thermal
+
+
+
+Management in Industrial/Military by Geographic Region - US,
+
+
+
+Canada, Japan, Europe, Asia-Pacific (excluding Japan), and
+
+
+
+Rest of World Markets Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2001 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 92
+
+
+
+Table 23: World 11-Year Perspective for Electronic Thermal
+
+
+
+Management in Industrial/Military by Geographic Region -
+
+
+
+Percentage Breakdown of Dollar Sales for US, Canada, Japan,
+
+
+
+Europe, Asia-Pacific (excluding Japan) and Rest of World
+
+
+
+Markets for Years 2005, 2010 & 2015 (includes corresponding
+
+
+
+Graph/Chart) 93
+
+
+
+Table 24: World Recent Past, Current & Future Analysis for
+
+
+
+Electronic Thermal Management in Consumer Electronics by
+
+
+
+Geographic Region - US, Canada, Japan, Europe, Asia-Pacific
+
+
+
+(excluding Japan) and Rest of World Independently Analyzed
+
+
+
+with Annual Sales Figures in US$ Million for Years 2007
+
+
+
+through 2015 (includes corresponding Graph/Chart) 94
+
+
+
+Table 25: World Historic Review for Electronic Thermal
+
+
+
+Management in Consumer Electronics by Geographic Region - US,
+
+
+
+Canada, Japan, Europe, Asia-Pacific (excluding Japan), and
+
+
+
+Rest of World Markets Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2001 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 95
+
+
+
+Table 26: World 11-Year Perspective for Electronic Thermal
+
+
+
+Management in Consumer Electronics by Geographic Region -
+
+
+
+Percentage Breakdown of Dollar Sales for US, Canada, Japan,
+
+
+
+Europe, Asia-Pacific (excluding Japan) and Rest of World
+
+
+
+Markets for Years 2005, 2010 & 2015 (includes corresponding
+
+
+
+Graph/Chart) 96
+
+
+
+Table 27: World Recent Past, Current & Future Analysis for
+
+
+
+Electronic Thermal Management in Automotive by Geographic
+
+
+
+Region - US, Canada, Japan, Europe, Asia-Pacific (excluding
+
+
+
+Japan) and Rest of World Independently Analyzed with Annual
+
+
+
+Sales Figures in US$ Million for Years 2007 through 2015
+
+
+
+(includes corresponding Graph/Chart) 97
+
+
+
+Table 28: World Historic Review for Electronic Thermal
+
+
+
+Management in Automotive by Geographic Region - US, Canada,
+
+
+
+Japan, Europe, Asia-Pacific (excluding Japan), and Rest of
+
+
+
+World Markets Independently Analyzed with Annual Sales Figures
+
+
+
+in US$ Million for Years 2001 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 98
+
+
+
+Table 29: World 11-Year Perspective for Electronic Thermal
+
+
+
+Management in Automotive by Geographic Region - Percentage
+
+
+
+Breakdown of Dollar Sales for US, Canada, Japan, Europe,
+
+
+
+Asia-Pacific (excluding Japan) and Rest of World Markets for
+
+
+
+Years 2005, 2010 & 2015 (includes corresponding Graph/Chart) 99
+
+
+
+12. UNITED STATES 100
+
+
+
+A.Market Analysis 100
+
+
+
+Current and Future Analysis 100
+
+
+
+By End-Use Segment 100
+
+
+
+By Product Segment 100
+
+
+
+Rising Complexities Present Lucrative Opportunities for
+
+
+
+Electronic Thermal Management 100
+
+
+
+Price Pressures and Shifting of Manufacturing to Asia to
+
+
+
+Restrain Growth 100
+
+
+
+B.Market Analytics 101
+
+
+
+Table 30: US Recent Past, Current & Future Analysis for
+
+
+
+Electronic Thermal Management by Product Segment - Hardware,
+
+
+
+Software, and Interfaces & Substrates Markets Independently
+
+
+
+Analyzed with Annual Sales Figures in US$ Million for Years
+
+
+
+2007 through 2015 (includes corresponding Graph/Chart) 101
+
+
+
+Table 31: US Historic Review for Electronic Thermal
+
+
+
+Management by Product Segment - Hardware, Software, and
+
+
+
+Interfaces & Substrates Markets Independently Analyzed with
+
+
+
+Annual Sales Figures in US$ Million for Years 2001 through
+
+
+
+2006 (includes corresponding Graph/Chart) 102
+
+
+
+Table 32: US 11-Year Perspective for Electronic Thermal
+
+
+
+Management by Product Segment - Percentage Breakdown of
+
+
+
+Dollar Sales for Hardware, Software, and Interfaces &
+
+
+
+Substrates Markets for Years 2005, 2010 & 2015 (includes
+
+
+
+corresponding Graph/Chart) 102
+
+
+
+Table 33: US Recent Past, Current & Future Analysis for
+
+
+
+Electronic Thermal Management by End-Use Segment -
+
+
+
+Computers, Telecom, Medical/Office Equipment,
+
+
+
+Industrial/Military, Consumer Electronics, and Automotive
+
+
+
+Markets Independently Analyzed with Annual Sales Figures in
+
+
+
+US$ Million for Years 2007 through 2015 (includes
+
+
+
+corresponding Graph/Chart) 103
+
+
+
+Table 34: US Historic Review for Electronic Thermal
+
+
+
+Management by End-Use Segment - Computers, Telecom,
+
+
+
+Medical/Office Equipment, Industrial/Military, Consumer
+
+
+
+Electronics, and Automotive Markets Independently Analyzed
+
+
+
+with Annual Sales Figures in US$ Million for Years 2001
+
+
+
+through 2006 (includes corresponding Graph/Chart) 104
+
+
+
+Table 35: US 11-Year Perspective for Electronic Thermal
+
+
+
+Management by End-Use Segment - Percentage Breakdown of
+
+
+
+Dollar Sales for Computers, Telecom, Medical/Office
+
+
+
+Equipment, Industrial/Military, Consumer Electronics, and
+
+
+
+Automotive Markets for 2005, 2010 & 2015 (includes
+
+
+
+corresponding Graph/Chart) 105
+
+
+
+13. CANADA 106
+
+
+
+Market Analysis 106
+
+
+
+Table 36: Canadian Recent Past, Current & Future Analysis
+
+
+
+for Electronic Thermal Management by End-Use Segment -
+
+
+
+Computers, Telecom, Medical/ Office Equipment,
+
+
+
+Industrial/Military, Consumer Electronics, and Automotive
+
+
+
+Markets Independently Analyzed with Annual Sales Figures in
+
+
+
+US$ Million for Years 2007 through 2015 (includes
+
+
+
+corresponding Graph/Chart) 106
+
+
+
+Table 37: Canadian Historic Review for Electronic Thermal
+
+
+
+Management by End-Use Segment - Computers, Telecom,
+
+
+
+Medical/Office Equipment, Industrial/Military, Consumer
+
+
+
+Electronics, and Automotive Markets Independently Analyzed
+
+
+
+with Annual Sales Figures in US$ Million for Years 2001
+
+
+
+through 2006 (includes corresponding Graph/Chart) 107
+
+
+
+Table 38: Canadian 11-Year Perspective for Electronic
+
+
+
+Thermal Management by End-Use Segment - Percentage Breakdown
+
+
+
+of Dollar Sales for Computers, Telecom, Medical/Office
+
+
+
+Equipment, Industrial/Military, Consumer Electronics, and
+
+
+
+Automotive Markets for 2005, 2010 & 2015 (includes
+
+
+
+corresponding Graph/Chart) 108
+
+
+
+14. JAPAN 109
+
+
+
+Market Analysis 109
+
+
+
+Table 39: Japanese Recent Past, Current & Future Analysis
+
+
+
+for Electronic Thermal Management by End-Use Segment -
+
+
+
+Computers, Telecom, Medical/ Office Equipment,
+
+
+
+Industrial/Military, Consumer Electronics, and Automotive
+
+
+
+Markets Independently Analyzed with Annual Sales Figures in
+
+
+
+US$ Million for Years 2007 through 2015 (includes
+
+
+
+corresponding Graph/Chart) 109
+
+
+
+Table 40: Japanese Historic Review for Electronic Thermal
+
+
+
+Management by End-Use Segment - Computers, Telecom,
+
+
+
+Medical/Office Equipment, Industrial/Military, Consumer
+
+
+
+Electronics, and Automotive Markets Independently Analyzed
+
+
+
+with Annual Sales Figures in US$ Million for Years 2001
+
+
+
+through 2006 (includes corresponding Graph/Chart) 110
+
+
+
+Table 41: Japanese 11-Year Perspective for Electronic
+
+
+
+Thermal Management by End-Use Segment - Percentage Breakdown
+
+
+
+of Dollar Sales for Computers, Telecom, Medical/Office
+
+
+
+Equipment, Industrial/Military, Consumer Electronics, and
+
+
+
+Automotive Markets for 2005, 2010 & 2015 (includes
+
+
+
+corresponding Graph/Chart) 111
+
+
+
+15. EUROPE 112
+
+
+
+Market Analysis 112
+
+
+
+Table 42: European Recent Past, Current & Future Analysis
+
+
+
+for Electronic Thermal Management by End-Use Segment -
+
+
+
+Computers, Telecom, Medical/ Office Equipment,
+
+
+
+Industrial/Military, Consumer Electronics, and Automotive
+
+
+
+Markets Independently Analyzed with Annual Sales Figures in
+
+
+
+US$ Million for Years 2007 through 2015 (includes
+
+
+
+corresponding Graph/Chart) 112
+
+
+
+Table 43: European Historic Review for Electronic Thermal
+
+
+
+Management by End-Use Segment - Computers, Telecom,
+
+
+
+Medical/Office Equipment, Industrial/Military, Consumer
+
+
+
+Electronics, and Automotive Markets Independently Analyzed
+
+
+
+with Annual Sales Figures in US$ Million for Years 2001
+
+
+
+through 2006 (includes corresponding Graph/Chart) 113
+
+
+
+Table 44: European 11-Year Perspective for Electronic
+
+
+
+Thermal Management by End-Use Segment - Percentage Breakdown
+
+
+
+of Dollar Sales for Computers, Telecom, Medical/Office
+
+
+
+Equipment, Industrial/Military, Consumer Electronics, and
+
+
+
+Automotive Markets for 2005, 2010 & 2015 (includes
+
+
+
+corresponding Graph/Chart) 114
+
+
+
+16. ASIA-PACIFIC 115
+
+
+
+A.Market Analysis 115
+
+
+
+Current and Future Analysis 115
+
+
+
+Taiwan Market Scenario 115
+
+
+
+B.Market Analytics 116
+
+
+
+Table 45: Asia-Pacific Recent Past, Current & Future
+
+
+
+Analysis for Electronic Thermal Management by End-Use
+
+
+
+Segment - Computers, Telecom, Medical/Office Equipment,
+
+
+
+Industrial/ Military, Consumer Electronics, and Automotive
+
+
+
+Markets Independently Analyzed with Annual Sales Figures in
+
+
+
+US$ Million for Years 2007 through 2015 (includes
+
+
+
+corresponding Graph/Chart) 116
+
+
+
+Table 46: Asia-Pacific Historic Review for Electronic
+
+
+
+Thermal Management by End-Use Segment - Computers, Telecom,
+
+
+
+Medical/Office Equipment, Industrial/Military, Consumer
+
+
+
+Electronics, and Automotive Markets Independently Analyzed
+
+
+
+with Annual Sales Figures in US$ Million for Years 2001
+
+
+
+through 2006 (includes corresponding Graph/Chart) 117
+
+
+
+Table 47: Asia-Pacific 11-Year Perspective for Electronic
+
+
+
+Thermal Management by End-Use Segment - Percentage Breakdown
+
+
+
+of Dollar Sales for Computers, Telecom, Medical/Office
+
+
+
+Equipment, Industrial/Military, Consumer Electronics, and
+
+
+
+Automotive Markets for 2005, 2010 & 2015 (includes
+
+
+
+corresponding Graph/Chart) 118
+
+
+
+17. REST OF WORLD 119
+
+
+
+Market Analysis 119
+
+
+
+Table 48: Rest of World Recent Past, Current & Future
+
+
+
+Analysis for Electronic Thermal Management by End-Use
+
+
+
+Segment - Computers, Telecom, Medical/Office Equipment,
+
+
+
+Industrial/Military, Consumer Electronics, and Automotive
+
+
+
+Markets Independently Analyzed with Annual Sales Figures in
+
+
+
+US$ Million for Years 2007 through 2015 (includes
+
+
+
+corresponding Graph/Chart) 119
+
+
+
+Table 49: Rest of World Historic Review for Electronic
+
+
+
+Thermal Management by End-Use Segment - Computers, Telecom,
+
+
+
+Medical/Office Equipment, Industrial/Military, Consumer
+
+
+
+Electronics, and Automotive Markets Independently Analyzed
+
+
+
+with Annual Sales Figures in US$ Million for Years 2001
+
+
+
+through 2006 (includes corresponding Graph/Chart) 120
+
+
+
+Table 50: Rest of World 11-Year Perspective for Electronic
+
+
+
+Thermal Management by End-Use Segment - Percentage Breakdown
+
+
+
+of Dollar Sales for Computers, Telecom, Medical/Office
+
+
+
+Equipment, Industrial/Military, Consumer Electronics, and
+
+
+
+Automotive Markets for 2005, 2010 & 2015 (includes
+
+
+
+corresponding Graph/Chart) 121
+
+
+
+COMPETITION
+
+
+
+Total Companies Profiled: 158 (including Divisions/Subsidiaries - 178)
+
+
+
+------------------------------------------
+
+
+
+Region/Country Players
+
+
+
+------------------------------------------
+
+
+
+The United States 120
+
+
+
+Canada 4
+
+
+
+Japan 6
+
+
+
+Europe 35
+
+
+
+France 3
+
+
+
+Germany 4
+
+
+
+The United Kingdom 17
+
+
+
+Italy 5
+
+
+
+Spain 1
+
+
+
+Rest of Europe 5
+
+
+
+Asia-Pacific (Excluding Japan) 13
+
+
+
+------------------------------------------
+
+
+
+To order this report:
+
+
+
+Electronic Component and Semiconductor Industry: Global Electronic Thermal
+
+Management Industry
+
+
+
+Electronic Component and Semiconductor Business News
+
+
+
+More Market Research Report
+
+
+
+Check our Company Profile, SWOT and Revenue Analysis!
+
+Nicolas Bombourg
+
+Reportlinker
+
+Email: nbo@reportlinker.com
+
+US: (805)652-2626
+
+Intl: +1 805-652-2626
+
+
+
+SOURCE Reportlinker
+
+
+
+
+
+
+
+CONTACT:Nicolas Bombourg of Reportlinker, US: +1-805-652-2626, Intl: +1
+
+805-652-2626, nbo@reportlinker.com
+
+
+
+URL: http://www.prnewswire.com
+
+
+
+LOAD-DATE: November 16, 2010
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+                   Copyright 2010 PR Newswire Association LLC
+
+                              All Rights Reserved
+
+
+
+
+

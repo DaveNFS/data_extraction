@@ -1,0 +1,23 @@
+DoubleClick Outage Might Have Cost Google Millions (Not Billions) Of Dollars
+
+The DoubleClick outage caused more than a few headaches on Wednesday, but Google Inc's (NASDAQ: GOOG) (NASDAQ: GOOGL) quick resolution seems to have minimized the economic impact.
+"Google is making money from the advertisers -- the people that are actually trying to sell a product -- and the media companies are making money from Google," David Jones, sales engineering director and APM evangelist for Dynatrace (which operates Outage Analyzer), told Benzinga.
+"That's their relationship. So if this ad network goes down, not only is the media site losing out on ad revenue because those ad impressions aren't happening, so is Google -- they're missing out on the revenue as well. If you think about it, they probably took the biggest hit out of everyone [Wednesday]."
+Related Link: Why Disney's Apple-Google Deal Isn't A Big Deal
+Rob Enderle, principal analyst at Enderle Group, said that the overall losses (for Google and publishers) depended on site traffic during the time of the outage.
+"Certainly millions [were lost]," Enderle told Benzinga. "Whether it [got] much higher than that is hard to tell."
+"Given how much Google makes, millions isn't material to them. As long as the outage is contained within a day, they're probably okay in terms of not taking a material hit."
+Enderle doesn't think Google will suffer any long-term consequences unless additional problems persist.
+"Once doesn't typically change behavior," he said. "You get something happening three, four, five times and the companies start looking at doing something different. As long as this happens occasionally and isn't perceived to be a regular problem with the firm I think they'll be fine."
+Tech industry expert and analyst Jeff Kagan came to a similar conclusion.
+"Unless it happens on a regular basis, it's not going to really impact Google and their business strategy," Kagan told Benzinga.
+"If it happens more regularly, then it's going to be a big headache for Google and they're going to have to solve it."
+Related Link: Is Google's Delivery Service A Threat To Amazon?
+Kagan is among the analysts who expect additional outages to occur -- but not necessarily at Google.
+"This is an issue that everyone needs to be pay attention to," Kagan warned. "As we move further into the cloud and store everything online and as we become susceptible to these kinds of outages, where we can't access our information, that's gonna be a problem because there's no bullet-proof network. When that happens, people are in the dark."
+Dan Miller, senior analyst and founder of Opus Research, expects to see more outages as well.
+"To me, whether it's search marketing or ad insertion, any of the stuff that is relying on the cloud-based infrastructure and being always on, there will always be outages," Miller told Benzinga.
+"There's vulnerabilities in the communications infrastructure that we're building all these services on. Whether it's an outage at AWS that drags down everything that's leaning on it or whether it's Google and DoubleClick, just expect more of this as well."
+Disclosure: At the time of this writing, Louis Bedigian had no position in the equities mentioned in this report.
+Posted-In: Dan Miller David Jones Doubleclick Dynatrace Google Jeff KaganAnalyst Color Tech Best of Benzinga
+? 2014 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

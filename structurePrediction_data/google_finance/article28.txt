@@ -1,0 +1,22 @@
+Google Inc (GOOG) Android 5.0 Lollipop roll out begins with some issues
+
+
+by James Vrionis ¡¤ November 15, 2014 08:20 AM PST
+Earlier this week the early roll-out of Google Inc (NASDAQ:GOOG) Android 5.0 Lollipop began. The first devices to receive the update were some of the Motorola Moto devices and it appears that the target is the beginning of next week?for the Lollipop update for Google Play devices. HTC has two Google Play edition devices in the lineup, the HTC One M7 and M8. We haven¡¯t seen any word from any other companies, but we¡¯d assume that Samsung, Motorola,?LG, and Sony are all aiming for the same time.
+?
+
+Reports from the Google¡¯s Developers Forum have indicated there is a WiFi issue plaguing the early roll-out in Nexus devices. ?Apple¡¯s iOS 8.02 release was also hit by an odd WiFi disconnect issue.
+Android 5.0 Lollipop will bring a variety of changes to the Android OS that many smartphone users will love. Here are the most significant ones:
+A redesigned interface. Android 5.0 Lollipop will have an entirely new visual style. New fonts, colors and imagery are the first things that users will notice, as well as more natural interactions with the touchscreen. All of this means a better ¡°look and feel¡± that many users believed was long overdue for Android.
+Better notification management. Users will be able to view notifications on their phone¡¯s lock screen and get the ability to dismiss them without having to unlock. A new setting called ¡°Downtime and Interruption¡± will let you select which contacts and notifications can get through to you at specific times. This is perfect if you are working on something important and are seeking to avoid interruptions and unnecessary distractions.
+Secure device sharing. One of the issues with borrowing your device to another person is that by doing so you will give them access to everything on your phone. The new version of Android lets you set up multiple user accounts or use a Guest mode to share your device. It is also possible to limit specific users to one application. This is perfect if you want to borrow your phone to your child so that they play a game, but don¡¯t want them messing around with other things on your phone.
+Power saving. You will be able to see around how much operating time remains on the current charge in the ¡°Battery Settings¡± panel. A new battery saving mode is now available. It works in a way similar to the power saver profile on laptops by reducing the device¡¯s performance and only running essential background operations with the goal of extending the life of your battery.
+Easy to use flashlight. The new flashlight can be turned on in the Quick Settings, simply by swiping down by using two fingers in the status bar.
+Google is working with it¡¯s partners to make this most recent version of Android available to as many users as they can in a short time frame.
+
+Tags: GOOG
+19 Feb, 2014
+21 Jan, 2014
+24 Feb, 2014
+Follow:
+InvestCorrectly.com ? 2014. All Rights Reserved.

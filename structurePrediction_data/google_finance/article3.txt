@@ -1,0 +1,11 @@
+ValueWalk
+
+Google To Test Internet-Transmitting Balloons In Australia
+
+Google plans to expand Project Loon in Australia after conducting the project in New Zealand
+Google Inc (NASDAQ:GOOGL) (NASDAQ:GOOG) is testing out balloons with transmit the internet in Australia. The tech giant is working on the project (which is dubbed with telecommunications company Telstra to test out 20 balloons next month in Queensland. Google previously ran a similar project in New Zealand last year.
+
+Google eventually wants to have a ring of balloons that circle the earth to bring internet access to the 2/3 of unwired people. This internet technology could also provide coverage to people in disaster zones.
+Project Loon operates by web-connected base stations that bounce signals to the balloons which float up to twice passenger jets altitude. The signals then hop from one balloon to another balloon. Each balloon can transmit signals to an area that is twice the size of Canberra.
+In other Google-related news, the search giant hopes to enhance the Android phone user experience with Lollipop. The new mobile operating system was given a makeover that is kind of similar to rival Apple Inc. (NASDAQ:AAPL)¡¯s iOS 7 makeover. It appears brighter and lighter than previous versions. Matias Duarte, the vice president of design for Google, explained, ¡°What if pixels didn¡¯t just have color, but also depth. What if there was an intelligent material that was a simple as paper, but could transform and change shape in response to touch.¡±
+Google¡¯s new design is based on a style metaphor called Material Design which is built on making virtual space on the phone seem more like physical space. The Lollipop operating system looks like a stack of virtual cards. The space and movement is built on physics which reflect device interaction. Screen transitions are both restrained and designed to remind the user where things are coming from the phone. Lollipop was designed to be customizable and simple. Google also allows manufacturers customize the Android system.

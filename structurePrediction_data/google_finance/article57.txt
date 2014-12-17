@@ -1,0 +1,11 @@
+Bidness Etc: Home for Business & Financial News Analysis.
+
+Google X To Develop Nanoparticles For Early Disease Detection
+
+"How is your health today?" is a question Google Inc. (GOOG) may have an answer to within a decade, with its nanoparticle project.?The company¡¯s Google X research lab is working on developing nanoparticle technology, which will be able to track a person¡¯s health and turn the medical diagnosis industry on its head.
+Google announced Tuesday at the WSJD Live conference in California, that Google X¡¯s Life Sciences team is developing a technology that could one day diagnose a human being before conventional methods.?Potentially, patients will take a pill comprising nanoparticles that attach to a disease cell in the human blood stream, to monitor critical functions and detect deadly diseases.
+A wearable device worn by a patient will be able to communicate and divert the magnetic nanoparticles to areas of the body being examined. This will allow scientists to detect and track tumor cells, which develop into cancer, at very early stages. Similarly, specific enzymes that lead to fatal strokes or heart attacks will also be tracked using the technology. Also, other diseases related to the kidneys, liver or stomach would be traced easily.
+Andrew Conrad, head of the Life Sciences team, said at the conference: ¡°If you buy a new car, it can tell you if your tires are running flat. It¡¯s amazing how many sensors sit on a car. Why not have those many sensors sit on something far more important than your transportation? Every test you ever go to the doctor for will be done through this system. We¡¯re trying to stave off death by preventing disease. Fundamentally, our foe is death.¡±
+Previously, Google worked with pharma giant Novartis AG (NVS) to develop a state-of-the-art contact lens with a sensor that helps keep track of a diabetic patient¡¯s blood glucose level. Its recent acquisition of the health startup Lift Labs has also signaled the company¡¯s big jump into the health space. Lift Labs has developed a device that helps patients alleviate symptoms of Parkinson¡¯s disease.
+Another project, Baseline Study, aims to collect genetic and molecular information from a human study, to develop a framework for defining what should be considered a healthy human body.
+You might also like this:

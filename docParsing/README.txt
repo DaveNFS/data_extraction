@@ -1,0 +1,1 @@
+easyParser.py is the execute file for parse article document.

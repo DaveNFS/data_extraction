@@ -1,0 +1,245 @@
+aa,PR Newswire,20110615,16:31,331887
+                              206 of 858 DOCUMENTS
+
+
+
+
+
+                                  PR Newswire
+
+
+
+                      June 15, 2011 Wednesday 4:31 PM EST
+
+
+
+CMU and Astrobotic Technology Complete Structural Assembly of Lunar Lander;
+
+Shake Testing Next For Spacecraft That Will Deliver Robot to Moon
+
+
+
+LENGTH: 894 words
+
+
+
+DATELINE: PITTSBURGH, June 15, 2011
+
+
+
+
+
+Astrobotic Technology Inc. and Carnegie Mellon University researchers have
+
+completed structural assembly of the lunar landing craft that will deliver the
+
+Red Rover robot to the moon in 2014. The half-ton aluminum structure will now be
+
+shipped to Boeing Co. facilities in El Segundo, Calif., for shake testing to
+
+confirm its soundness and its compatibility with the SpaceX Falcon 9 launch
+
+vehicle.
+
+
+
+(Photo: http://photos.prnewswire.com/prnh/20110615/NE20800 )
+
+
+
+(Logo: http://photos.prnewswire.com/prnh/20020422/CMULOGO )
+
+
+
+Astrobotic plans to land the spacecraft, carrying both the robot and a
+
+commercial payload, on the moon's Sea of Tranquility or on the Marius Hills next
+
+to a recently discovered "skylight" leading down into a volcanic cave. The
+
+solar-powered Red Rover will broadcast high-definition video to Earth as the
+
+four-wheeled robot explores the moon. Astrobotic aims to claim up to $36 million
+
+in awards from the Google Lunar X Prize, a NASA landing contract and a Florida
+
+launch bonus. The Google Lunar X Prize is a $30 million competition for the
+
+first privately funded team to send a robot to the moon, travel 500 meters and
+
+transmit video, images and data back to Earth.
+
+
+
+"This lunar lander will be a key part of our initial moon mission and we expect
+
+to re-use this design for a series of missions that will establish Astrobotic
+
+Technology as an ongoing, exploration enterprise," said William "Red" Whittaker,
+
+CMU professor of robotics and Astrobotics' CEO and chief technical officer.
+
+"It's an amazing piece of technology and it's gratifying to know that so much of
+
+it was invented and crafted here in Western Pennsylvania."
+
+
+
+The team used engineering simulation software provided by ANSYS Inc. of
+
+Canonsburg, Pa., to calculate the design's strength and stiffness.
+
+Pittsburgh-based Alcoa provided technical expertise, the aluminum used to create
+
+the structure of the lunar lander, and the fasteners that hold the lander
+
+together. Its largest component is a 10-foot-diameter, 1-inch-thick deck made
+
+from two slabs of solid aluminum joined via stir welding by Concurrent
+
+Technologies Corp. in Johnstown, Pa., and machined by Edgar Industries in New
+
+Kensington, Pa.
+
+
+
+Assembly took place in the Planetary Robotics Lab in Carnegie Mellon's Gates and
+
+Hillman centers; a grant from the state of Pennsylvania enabled construction of
+
+the lab, which was finished in 2009.
+
+
+
+When the craft is completed, the deck will support four spherical fuel tanks
+
+capable of carrying almost two tons of propellant. A single main engine
+
+controlling the lander's descent will sit below the deck and eight thrusters on
+
+the deck's periphery will provide stability. A cone-shaped structure atop the
+
+deck will connect to the 173-pound Red Rover. The lander also can carry up to
+
+242 pounds of commercial payload and will have rechargeable batteries and solar
+
+panels capable of providing 500 watts of power during daylight.
+
+
+
+In February, Astrobotic signed a contract with SpaceX to launch its mission on a
+
+Falcon 9 rocket, the same vehicle that NASA will use to send supplies to the
+
+International Space Station. The Falcon 9 will throw the Astrobotic spacecraft
+
+into a lunar trajectory for a four-day cruise to the moon. Navigation software,
+
+developed at Carnegie Mellon's Robotics Institute so vehicles could drive
+
+themselves safely and reliably, will be used to guide the spacecraft to a soft
+
+and precise landing on the moon. Fold-down ramps will allow the rover to roll
+
+down either side of the lander, in case one side is blocked by a boulder or
+
+crater.
+
+
+
+A unique aspect of the expedition is the inclusion of interdisciplinary arts
+
+projects created by students and faculty based in the STUDIO for Creative
+
+Inquiry at Carnegie Mellon's College of Fine Arts. CMU Professor Lowry Burgess
+
+is coordinating the historic Moon Arts project.
+
+
+
+In addition to Carnegie Mellon, the mission is supported by industrial partners
+
+such as International Rectifier Corporation and corporate sponsors such as
+
+Caterpillar Inc.
+
+
+
+For more information, visit CMU's Google Lunar X Prize website,
+
+http://www.cmu.edu/google-lunar-x/, and the Astrobotic Technology website,
+
+http://www.astrobotictech.com/. The Robotics Institute is part of Carnegie
+
+Mellon's School of Computer Science; follow the school on Twitter @SCSatCMU.
+
+
+
+About Carnegie Mellon University: Carnegie Mellon (www.cmu.edu) is a private,
+
+internationally ranked research university with programs in areas ranging from
+
+science, technology and business, to public policy, the humanities and the arts.
+
+More than 11,000 students in the university's seven schools and colleges benefit
+
+from a small student-to-faculty ratio and an education characterized by its
+
+focus on creating and implementing solutions for real problems,
+
+interdisciplinary collaboration and innovation. A global university, Carnegie
+
+Mellon's main campus in the United States is in Pittsburgh, Pa. It has campuses
+
+in California's Silicon Valley and Qatar, and programs in Asia, Australia,
+
+Europe and Mexico. The university is in the midst of a $1 billion fundraising
+
+campaign, titled "Inspire Innovation: The Campaign for Carnegie Mellon
+
+University," which aims to build its endowment, support faculty, students and
+
+innovative research, and enhance the physical campus with equipment and facility
+
+improvements.
+
+
+
+SOURCE Carnegie Mellon University
+
+
+
+
+
+
+
+CONTACT:Byron Spice, +1-412-268-9068, bspice@cs.cmu.edu
+
+
+
+URL: http://www.prnewswire.com
+
+
+
+LOAD-DATE: September 6, 2011
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+                   Copyright 2011 PR Newswire Association LLC
+
+                              All Rights Reserved
+
+
+
+
+

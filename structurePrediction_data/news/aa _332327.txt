@@ -1,0 +1,183 @@
+aa,PR Newswire US,20070109,13:14,332327
+                              646 of 858 DOCUMENTS
+
+
+
+
+
+                                 PR Newswire US
+
+
+
+                      January 9, 2007 Tuesday 6:14 PM GMT
+
+
+
+Alcoa Deploying Vinimaya eCatalog Solution;
+
+ViniSyndicate(TM) to serve as Global Indirect and MRO ePurchasing Portal
+
+
+
+LENGTH: 565 words
+
+
+
+DATELINE: SHELTON, Conn. Jan. 9
+
+
+
+
+
+SHELTON, Conn., Jan. 9  /PRNewswire/ -- Vinimaya, the leading provider of next
+
+generation supplier enablement solutions for e-procurement, today announced that
+
+Alcoa, the world's leading producer and manager of primary aluminum, fabricated
+
+aluminum and alumina facilities, has become a Vinimaya client, joining the
+
+growing list of world class companies using their innovative ViniSyndicate
+
+Catalog Integration System(TM).
+
+
+
+Alcoa is using ViniSyndicate to improve their supplier enablement capabilities
+
+and e-catalog usability to complement their worldwide Oracle iProcurement
+
+implementation, and has deployed ViniSyndicate to users in North America, South
+
+America and Australia.
+
+
+
+The addition of ViniSyndicate builds upon Alcoa's successful deployment of the
+
+"Alcoa Mall," Alcoa's internal worldwide e-procurement portal.  To date, the
+
+"Alcoa Mall" has delivered significant spend savings and reductions in overhead
+
+costs. Alcoa determined ViniSyndicate would provide additional value by
+
+providing a common catalog interface and environment among its multiple Oracle
+
+iProcurement instances, eliminate supplier punchout connectivity testing,
+
+maintenance and downtime, and remove the many technical and resource barriers to
+
+effective catalog content management.
+
+
+
+The ViniSyndicate Catalog Integration System uses patent-pending distributed
+
+Internet search technology to allow users to browse suppliers' web sites and
+
+online catalogs directly from their e-procurement system, regardless of whether
+
+the supplier site supports XML punchout. This drastically reduces dependence on
+
+the supplier's IT department, increases buyer access to low cost,
+
+supplier-maintained catalogs and reduces dependence on costly catalog databases.
+
+With ViniSyndicate, catalogs are deployed in days versus months, and users
+
+access both online and internal catalogs from a single, portal-type user
+
+interface with key functionality at their fingertips like cross-supplier (e.g.,
+
+federated) search, item compare and saved carts, all of which are not currently
+
+supported by XML punchout.
+
+
+
+In addition to Oracle iProcurement, ViniSyndicate is compatible with all leading
+
+e-procurement systems such as Ariba Buyer, PeopleSoft Enterprise eProcurement
+
+and SAP EBP among others.
+
+
+
+Vinimaya solutions can either be licensed as software or accessed as an OnDemand
+
+Service for a low, fixed annual fee. All Vinimaya products are based on their
+
+patent-pending Intelligent Agent Search (IAS)(TM) platform.
+
+
+
+About Vinimaya
+
+
+
+Vinimaya, Inc. is a privately held software solutions company that provides
+
+Supplier Enablement Solutions for E-Procurement for both buyers and suppliers
+
+based on the patent-pending Vinimaya Intelligent Agent Server (IAS)(TM) that are
+
+100% compatible with e-procurement systems such as Ariba Buyer, SAP EBP, Oracle
+
+iProcurement and PeopleSoft Enterprise eProcurement among others.  Visit
+
+http://www.vinimaya.com/  or call 203-926-1768.
+
+
+
+"Vinimaya," "ViniSyndicate," "ViniSyndicate Catalog Integration System,"
+
+"ViniSyndicate Supplier Integration System," "EasyOrder," "Vinimaya Supplier
+
+Solutions," "Vinimaya Buyer Solutions" and "Intelligent Agent Search" are
+
+registered trademarks of Vinimaya, Inc. All other product and company names
+
+listed may be the trademarks of their respective owners.
+
+
+
+CONTACT:  Leonard Lee, Vinimaya, Inc., +1-612-670-3445, or
+
+ llee@vinimaya.com
+
+
+
+Web site:   http://www.vinimaya.com/
+
+
+
+SOURCE Vinimaya
+
+
+
+URL: http://www.prnewswire.com
+
+
+
+LOAD-DATE: January 10, 2007
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+                  Copyright 2007 PR Newswire Association LLC.
+
+                              All Rights Reserved.
+
+
+
+
+

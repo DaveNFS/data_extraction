@@ -1,0 +1,29 @@
+Google¡¯s DoubleClick ad service outage cost publishers revenue Add to ...
+
+Richard Blackwell
+The Globe and Mail
+Published Wednesday, Nov. 12 2014, 12:24 PM EST
+Last updated Wednesday, Nov. 12 2014, 6:23 PM EST
+A service that ensures advertisements appear on websites all over the world conked out on Wednesday morning, leaving ad space blank for thousands of online organizations.
+DoubleClick, an advertising management business owned by Google Inc., experienced a software bug that kept ads from showing up, and slowed many sites from loading. DoubleClick controls and tracks the display advertising on websites, and measures who sees them.
+The outage had a widespread impact because DoubleClick has a large portion of the online ad-management business, with some estimates suggesting its market share at more than than 80 per cent. It supplies its service to Web publishers, including The Globe and Mail, as well as The Wall Street Journal, Forbes, USA Today, BuzzFeed, BBC.com and The Guardian, all of which had problems displaying ads during the outage.
+Starting around 9 a.m. Wednesday morning, advertisements failed to appear when readers called up the sites. As a result, there was empty space where advertising should have been. The issue was resolved within a couple of hours.
+On its website, DoubleClick said it ¡°experienced an outage this morning impacting publishers globally, across their video, display, native and mobile formats.¡± The ¡°software bug¡± was quickly fixed, DoubleClick said, ¡°so our publisher partners can return to funding their content.¡±
+While some readers were gratified to be able to read websites without advertising, even a short breakdown can have a significant impact on publishers. Advertising fees are based on the number of impressions an ad receives, and losing exposure for a couple of hours can dent revenue, especially for ads that are purchased for short durations.
+Some of the affected publications are expected to ask DoubleClick for compensation, because there are service level agreements in their contracts. Brian O¡¯Kelley, chief executive officer of advertising technology company AppNexus, told the Business Insider website that the outage could have cost publishers collectively ¡°$1-million per hour¡± in lost ad revenue.
+Online monitoring firm Dynatrace reported more than 3,300 publications and other organizations were affected by the DoubleClick outage. It noted that the problem was particularly serious because it also slowed page loading, causing some users to abandon sites. That could have further cut into ad impressions.
+Dynatrace spokesman David Jones said it was not only news organizations that were affected. Travel, digital television and automotive sites were also hit. ¡°Almost every industry was impacted by this,¡± he said.
+While DoubleClick has experienced minor outages before, this is the largest and most widespread Dynatrace has detected, Mr. Jones said. There is no indication there was ¡°malicious hacking¡± involved, he said, but it was more likely an internal human error caused by a routine software update.
+DoubleClick was founded in 1996 to link the services of advertising agencies, marketing organizations and publishers. It was purchased by Google in 2007.
+While it has a commanding market share, DoubleClick now has a rival. Facebook sells a similar online ad management service called Atlas, which it bought from Microsoft in 2013.
+Follow Richard Blackwell on Twitter: @blackwellglobe
+Digital all access pass across devices. subscribe
+Newspaper delivered to your doorstep. subscribe
+The digital replica of our newspaper. subscribe
+A collection of articles by the Globe. subscribe
+Your number one partner for reaching Canada's Influential Achievers. learn more
+? Thomson Reuters 2012.
+All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar means, is prohibited without the prior written consent of Thomson Reuters. Thomson Reuters is not liable for any errors or delays in Thomson Reuters content, or for any actions taken in reliance on such content. ¡®Thomson Reuters¡¯ and the Thomson Reuters logo are trademarks of Thomson Reuters and its affiliated companies.
+Technology is part of The Globe and Mail's Report on Business
+Selected data supplied by Thomson Reuters.? Thomson Reuters Limited. Click for Restrictions .
+? Copyright 2014 The Globe and Mail Inc. All Rights Reserved.

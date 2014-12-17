@@ -1,0 +1,21 @@
+Google, Partners Target Illegal Fishing With New Technology
+
+
+By Lucy Craymer
+Google Inc. has teamed up with mapping company SkyTruth and marine-advocacy group Oceana to create a new tool aimed at reining in illegal fishing world-wide.
+A prototype of the technology called Global Fishing Watch was launched Friday in Sydney. It will allow the public to view online where fishing boats are operating around the globe. The developers say they hope the tool will give governments, non-government organizations and the public the ability to monitor where illegal fishing is taking place.
+While the technology can't prevent instances of illegal fishing, making the information publicly available could help governments police commercial fishing, said Jackie Savitz, vice president of U.S. Oceans for Oceana. In countries with governments less willing or able to prevent overfishing, the public will have more knowledge to pressure them, she said.
+"Illegal fishing is something that we can hope to put a dent in with Global Fishing Watch," said Ms. Savitz. "What is cool is that the technology does most of the work."
+The technology is expected to cost $3 million to $5 million, and uses tracking devices already mandated on all large boats, filtering out the fishing vessels using recognized patterns. In a statement, the developers conceded that illegal fishing operations can turn off their satellite trackers, which could limit the usefulness of the program.
+Developed by Google and SkyTruth programmers, it uses Google's data-analysis facilities to parse huge amounts of information and visualize where fishing is occurring around the globe.
+The project was undertaken by Google Earth Outreach program, which works with nonprofits to find ways the Mountain View, Calif., company's infrastructure can be used to meet global challenges. The Global Fishing Watch project stemmed from a demonstration at a developer conference showing how much data could be visualized in a browser.
+"The data set we used was shipping because it was a beautiful data set, but as soon as we put it up there people started picking up patterns. And people started saying what if we could just pick out fishing? What would that mean? What would it enable?" said Brian Sullivan, project manager at Google Ocean & Earth Outreach program.
+The developers said the program would be available for public use in 2015 or 2016, depending on funding.
+Overfishing is a growing concern world-wide, with around 30% of marine stocks overfished, according to the United Nations' Food and Agriculture Organization.
+Five years ago, a study published by the World Bank and U.N.'s Food and Agriculture Organization put the economic losses from poor fisheries management and overfishing at up to $50 billion a year.
+Concerns about fish stocks are leading countries with large ocean resources to find ways to safeguard the resources--often while struggling to patrol large areas of ocean with minimal equipment.
+One such country is the small Pacific nation Kiribati, which plans to ban commercial fishing in the country's Phoenix Islands Protected Area from Jan. 1 2015, and suspend commercial fishing in a second area to allow fish stocks to be replenished.
+Write to Lucy Craymer at Lucy.Craymer@wsj.com
+Subscribe to WSJ: http://online.wsj.com?mod=djnwires
+Enter up to 25 symbols separated by commas or spaces in the text box below. These symbols will be available during your session for use on applicable pages.
+You have selected to change your default setting for the Quote Search. This will now be your default target page; unless you change your configuration again, or you delete your cookies. Are you sure you want to change your settings?

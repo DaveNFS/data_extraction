@@ -1,0 +1,203 @@
+
+                              853 of 858 DOCUMENTS
+
+
+
+
+
+                                  PR Newswire
+
+
+
+                            January 26, 2004 Monday
+
+
+
+NetQoS(SM) Plans for the Future with Expanded Network Management Support in
+
+ReporterAnalyzer Version 5
+
+
+
+SECTION: FINANCIAL NEWS
+
+
+
+LENGTH: 555 words
+
+
+
+DATELINE: AUSTIN, Texas Jan. 26
+
+
+
+
+
+NetQoS(SM) Inc., network performance experts, today announced the support of
+
+Cisco NetFlow(R) Version 9 by ReporterAnalyzer Version 5. Version 9 of Cisco
+
+Systems' NetFlow, a technology for collecting network traffic information,
+
+features expanded protocol support, and sets the stage for even greater
+
+efficiency in Cisco NetFlow collection.
+
+
+
+"Our quick adoption of Cisco NetFlow Version 9, the de facto standard in
+
+Internet Protocol (IP) data flow, is another way that NetQoS is progressively
+
+giving network managers the tools they need to optimize their network and
+
+application performance," said Michael Turner, NetQos executive vice president.
+
+"With an enterprise-wide view of application traffic, ReporterAnalyzer allows
+
+network managers to optimize their infrastructure, troubleshoot, quickly
+
+identify virus and rogue traffic, and plan for the future, whether in capacity
+
+planning or in upgrading NetFlow systems."
+
+
+
+ReporterAnalyzer
+
+
+
+ReporterAnalyzer is a flexible analysis engine that enables network managers to
+
+understand how application traffic is impacting network performance.
+
+ReporterAnalyzer identifies which applications are using bandwidth, who the
+
+users are, and when the applications are being utilized. ReporterAnalyzer has
+
+the ability to store and report on enterprise-wide Cisco NetFlow data for an
+
+entire year, allowing network managers to make the right decisions regarding
+
+cost reduction, troubleshooting, capacity planning and traffic analysis.
+
+
+
+ReporterAnalyzer Version 5 is available immediately, with prices starting at
+
+$50,000.
+
+
+
+Cisco NetFlow Version 9
+
+
+
+Cisco NetFlow Version 9 stands apart from previous versions in its flexible and
+
+extensible template-based format, which provides the versatility needed to
+
+support new fields and record types. With the ability to export information on
+
+most data types, this new format will support technologies such as Multitask,
+
+Multiprotocol Label Switching (MPLS), IP version 6 (Ipv6), and BGP next hop.
+
+
+
+In addition, Cisco Netflow Version 9 is the basis for IPFIX (Internet Protocol
+
+Flow Information eXport), the new Internet Engineering Task Force (IETF)
+
+standard. The IETF recently selected Cisco NetFlow technology from five
+
+candidates as the basis for a standardized commercial IP data export system
+
+because of its broad support and widespread use across the industry. IPFIX, thus
+
+Cisco NetFlow, will provide network managers around the world with easy access
+
+to the operational data needed to manage their networks.
+
+
+
+About NetQoS, Inc.
+
+
+
+NetQoS productsand services optimize the performance of the most demanding
+
+enterprise networks. Headquartered in Austin, Texas, NetQoS' customers include
+
+Alcoa, Barclays, Boeing, Exxon, Halliburton, Schlumberger, Sara Lee,
+
+ChevronTexaco, Citrix, DuPont and Hilton. More information can be found by
+
+visiting NetQoS' Web site at www.netqos.com or by calling (877) 835-9575.
+
+
+
+Media Contacts:
+
+     Jennie Craig
+
+     Marketing Programs Manager
+
+     NetQoS, Inc.
+
+     (512) 439-2867
+
+     jennie.craig@netqos.com
+
+
+
+Richard Weber
+
+     Wildfire Public Relations for NetQoS
+
+     (512) 502-0343
+
+     rweber@wildfire-pr.com
+
+
+
+SOURCE NetQoS, Inc.
+
+
+
+CONTACT: Jennie Craig, Marketing Programs Manager of NetQoS, Inc.,
+
++1-512-439-2867, jennie.craig@netqos.com; or Richard Weber of Wildfire Public
+
+Relations, +1-512-502-0343, rweber@wildfire-pr.com, for NetQoS, Inc.
+
+
+
+URL: http://www.prnewswire.com
+
+
+
+LOAD-DATE: January 27, 2004
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+DISTRIBUTION: TO BUSINESS AND TECHNOLOGY EDITORS
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+                  Copyright 2004 PR Newswire Association, Inc.
+
+
+
+
+

@@ -1,0 +1,10 @@
+Bidness Etc: Home for Business & Financial News Analysis.
+
+Is Any Of Our Data Private?
+
+Apple Inc.?(NASDAQ:AAPL) and Google Inc.?(NASDAQ:GOOGL) are facing criticism from law enforcement agencies after introducing new data encryption on their iOS and Android mobile operating systems. The extra security on smartphones has locked out agencies from accessing private user data stored on these devices.
+Addressing audience at the Brookings Institution think tank , FBI Director, James Comey made sweeping statements regarding the new encryption. He said the new feature will hurt law enforcement agencies¡¯ efforts in investigating cases such as child abuse and murders.
+Previously, law enforcement agencies could ask smartphone manufacturers to provide them access to private data stored on devices for extracting relevant information to help their investigation processes, subject to a court order.?Many privacy concerns had been raised since the details of the surveillance program, run by the US government, were revealed by Edward Snowden.?
+Apple and Google took this step after receiving numerous requests from law enforcement agencies to unlock devices belonging to suspects under criminal investigations. The new encryption makes these requests pointless because even manufacturers are unable to unlock the data. Only users are now able to access their devices with their data intact, if the encryption has been enabled. Apples iOS 8 and Google's Lollipop come with this encryption.
+While addressing the "Global Alliance Conference Against Child Sexual Abuse" in September, US Attorney General Eric Holder said this encryption was worrisome. He urged technology companies to cooperate with law enforcement agencies with their investigations to help solve criminal cases.?Mr. Comey and Mr. Holder have emphasized on the issue by stating that access to data can help investigators detect crimes like child abuse.
+You might also like this:

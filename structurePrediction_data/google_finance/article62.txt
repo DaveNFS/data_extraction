@@ -1,0 +1,24 @@
+Next from Google: A Pill That Searches for Illnesses
+
+Google?is working on a cancer-detecting pill in its latest effort to push the boundaries of technology.
+Still in the experimental stage, the pill is packed with tiny magnetic particles, which can travel through a patient's bloodstream, search for malignant cells and report their findings to a sensor on a wearable device.
+As many as 2,000 of these microscopic "nanoparticles" could fit inside a single red blood cell to provide doctors with better insights about what is happening inside their patients.
+The project announced Tuesday is the latest effort to emerge from?Google's?X lab, which has been trying to open new technological frontiers to solve nettlesome problems and improve the quality of people's lives. The same division is also working on several other outlandish projects that have little to do with?Google's?main business of Internet search and advertising: Self-driving cars, a computer called Glass that looks like eyeglasses, Internet-beam balloons and contact lenses that can measure glucose in tears.
+Some investors frustrated with the costs of financing X's projects ridicule them as expensive flights of fancy, but?Google?CEO Larry Page likens them to moonshots that could unleash future innovation and money-making opportunities.
+It could be a decade before?Google's?nanoparticle research pays off, according to the Mountain View, California, company.
+At this point,?Google?believes the cancer-detecting nanoparticles can be coated with antibodies that bind with specific proteins or cells associated with various maladies. The particles would remain in the blood and report back continuously on what they find over time, said Andrew Conrad, head of life sciences at?Google?X, while a wearable sensor could track the particles by following their magnetic fields and collecting data on their movement through the body.
+The goal is to get a fuller picture of the patient's health than the snapshot that's obtained when a doctor draws a single sample of blood for tests that aren't comprehensive enough to spot the early stages of many forms of cancer.
+"We want to make it simple and automatic and not invasive," Conrad added. Like?Google?is doing in the contact lens project, the company is here looking for ways to proactively monitor health and prevent disease, rather than wait to diagnose problems, he said.
+Data from the sensor could be uploaded or stored on the Internet until it can be interpreted by a doctor, he said. That could raise questions about privacy or the security of patient data. But when asked if?Google?could use the information for commercial purposes, Conrad said, "We have no interest in that."
+The effort to develop a better way to detect cancer was inspired by the experience of?Google?engineer Tom Stanis.
+After getting hit by a car while bicycling, Stanis wound up in a hospital emergency room where a medical scan looking for internal bleeding alerted doctors that there was a tumor growing in his kidney.
+The diagnosis probably wouldn't have been made at such an early stage if Stanis hadn't been seriously injured, prompting?Google's?X lab to explore better ways for doctors to keep watch for early warning signs. Stanis, who is now cancer-free, is part of the team working on X's nanoparticle technology.
+Conrad described the project during an appearance at a tech industry conference organized by the Wall Street Journal. He said the team working on the nanoparticle project includes a cancer specialist and other doctors, as well as electrical and mechanical engineers and an astrophysicist who has been advising on how to track the particles through the body.
+Google?is looking for partners who would license the technology and bring products to market. "Our partners would take care of all that stuff. We're the inventors and creators of the technology," Conrad said.
+--Associated Press
+More:
+Elon Musk Reveals the Car of the Future, and It Is Glorious
+Somebody Ran a $40 Million Bitcoin Ponzi Scheme
+Becoming Obama's Go-To Lunch Spot
+The 12 Most Powerful Entrepreneurs in the World
+How Quirky Antics Can Help Foster Team Work

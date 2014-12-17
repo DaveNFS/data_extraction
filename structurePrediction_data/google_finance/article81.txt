@@ -1,0 +1,18 @@
+Is Autodesk's Spark The Brainchild Of Google's Android?
+
+Since its announcement of an open-source platform, Spark, Autodesk, Inc. (NASDAQ: ADSK) has been busy.
+Jeff Kowalski, the company's CTO, unveiled a prototype printer, Ember, during his keynote at the recently concluded Inside 3D Printing conference. This was followed by the announcement of a $100 million fund last month at a special event.
+Google Inc's (NASDAQ: GOOG) (NASDAQ: GOOGL) Android strategy was also based on open sourcing the mobile operating system.
+However, there are three differences between the two systems.
+The first difference lies in target markets. Running on top of sophisticated hardware devices, the Android ecosystem was primarily targeted at consumers. The 3D printing market is yet to gain a ton of traction with the average consumer.
+Related Link: 3 Problems The 3D Printing Industry Must Overcome
+During a conversation with Benzinga, Aubrey Cattell, senior director business development and operations manager at Autodesk, said that he saw an "enormous opportunity" in industrial systems and that the company had already had conversations with "leading automobile manufacturers" regarding the platform.
+Quantitatively, Spark's target market is smaller than that of Android.
+The second difference lies in Autodesk's partnerships. The Android ecosystem worked in conjunction with established hardware brands, such as Samsung and LG. They offered consumers choice and an alternative to Apple Inc.'s closed iOS platform. More importantly, these brands were backed by Google's financial reserves, intellectual capital and strategy chops.
+The Spark platform, which is primarily software, has not announced significant partnerships yet. Stratasys, Ltd. and 3D Systems Corporation -- leaders in the 3D printing ecosystem -- are absent from the venture.
+Related Link: 3 Companies That Could Become The Kinkos Of 3D Printing
+Finally, there is the difference in open-source strategies. The open-source movement has had mixed results within the 3D printing ecosystem. There was Stratasys' acquisition of Makerbot. However, there has not been much progress since then.
+A number of 3D printer machines based on open-source specifications have flooded the market in a price range affordable to consumers. However, they have not gained much traction with either consumers or hobbyists.
+Instead, Stratasys and 3D Systems continue to dominate the consumer market. Open source also works differently in an industrial systems context, Autodesk's target market.
+Posted-In: Android Aubrey Cattell comments Ember Google Inside 3D PrintingTech General Best of Benzinga
+? 2014 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

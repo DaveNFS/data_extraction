@@ -1,0 +1,2 @@
+('Google', 'NNP')('faces', 'NNS')('daily', 'RB')('1', 'CD')('000', 'CD')('euro', 'NN')('fine', 'NN')('in', 'IN')('France', 'NNP')('if', 'IN')('right', 'NN')('to', 'TO')('forget', 'VB')('article', 'NN')('is', 'VBZ')('not', 'RB')('taken', 'VBN')('down', 'RB')
+('The', 'DT')('views', 'NNS')('expressed', 'VBN')('in', 'IN')('the', 'DT')('contents', 'NNS')('above', 'IN')('are', 'VBP')('those', 'DT')('of', 'IN')('our', 'PRP$')('users', 'NNS')('and', 'CC')('do', 'VBP')('not', 'RB')('necessarily', 'RB')('reflect', 'VB')('the', 'DT')('views', 'NNS')('of', 'IN')('MailOnline', 'NNP')

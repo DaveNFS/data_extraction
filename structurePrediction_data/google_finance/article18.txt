@@ -1,0 +1,23 @@
+Nexus 5 Owners Are Running Into Problems With Android L [Updated]
+
+Tuesday, November 18, 2014 As of 12:55 AM EST
+U.S. Edition
+No software rollout would be complete without a few early bugs, and Android L is no exception -- especially on the Nexus 5. The latest version of Google¡¯s operating system has an issue connecting to Wi-Fi networks following the Android 5.0 (Lollipop) update, if you can get it to install correctly.
+Android L (5.0) devices won¡¯t connect to Wi-Fi, developers have been telling Google for nearly a month. One developer complains that the Nexus 5 saves passwords but then fails to actually connect, as Business Insider pointed out. The issue seems to also be affecting Nexus 7 and Nexus 9 tablets.
+Update: Some users report that they are having no issues with Wi-Fi on the Nexus 5, while others report losing data while installing the over-the-air (OTA) update. It is always wise to back up photos and other personal files before installing a major update like Android L on your device. Note that not all of your apps may be compatible once you install Android 5.0.
+The issue seems to come from the current version of Android L for the LG Nexus 5, or build LRX21O. Google has not yet come up with a fix for the issue -- which could be major for users who rely on Wi-Fi. This is the second Wi-Fi issue to affect the Nexus 5 following the release of Android L -- the first drained battery life, but has since been fixed.
+While the Wi-Fi bug affects Nexus 5 models running Android L, a number of owners say their device cannot complete the installation due to a ¡°missing system.img¡± error message. The bug cancels the installation of Android L on the Nexus 5 as well as a number of other devices.
+To fix the ¡°missing system¡± error and finishing installing Android L, head over to Android Police¡¯s in-depth guide. Having trouble with Android L, or has the update been perfect? Let us know in the comments below.
+An earlier version of this story incorrectly referred to the Android 5.0 (Lollipop) build for the Nexus 5. It is LRX21O, not LRX201 as previously stated. It has been corrected, and updated to include new reports from Nexus 5 owners.
+
+MuteUnmute
+Misfit Shine Disappoints
+? Copyright 2014 IBT Media Inc. All Rights Reserved.
+More Politics
+More Economy
+More Markets / Finance
+More Companies
+More Technology
+More Media & Culture
+More Sports
+More Opinion

@@ -1,0 +1,263 @@
+
+                              849 of 858 DOCUMENTS
+
+
+
+
+
+                                  PR Newswire
+
+
+
+                          February 11, 2004 Wednesday
+
+
+
+Army's Defense Ammunition Center Implements Solid Edge(R) for Computer-Aided
+
+Design of Ammunition Handling Systems and Ammunition Peculiar Equipment;
+
+Software Purchase Prompted By Need for Faster Drawing Creation and Use Of Design
+
+Data for Safety Analysis and ISO 9001 Process Documentation
+
+
+
+SECTION: FINANCIAL NEWS
+
+
+
+LENGTH: 896 words
+
+
+
+DATELINE: PLANO, Texas Feb. 11
+
+
+
+
+
+UGS PLM Solutions, the product lifecycle management (PLM) subsidiary of EDS
+
+(NYSE: EDS), today announced the Army's Defense Ammunition Center (DAC) selected
+
+Solid Edge(R) as its computer- aided design (CAD) system following a yearlong
+
+evaluation to update its previous 2D and 3D systems.
+
+
+
+McAlester, Okla.-based DAC purchased 25 licenses of Solid Edge for use in the
+
+design, testing and safety validation of ammunition loads, which may be
+
+transported, stored and handled by numerous conveyances for the U.S. Department
+
+of Defense. Solid Edge also will be used to design equipment, which will be
+
+utilized in the maintenance and demilitarization of ammunition.
+
+
+
+DAC's objective was to move from the 2D design process to 3D in order to shorten
+
+the time it takes to produce multiple drawing sets as well as to use 3D data
+
+with Finite Element Analysis software to determine the safety of the ammunition
+
+handling platforms before they are constructed. DAC also targeted a need for
+
+design management, specifically documenting its recent ISO 9001 certification
+
+processes.
+
+
+
+Dual technical support for DAC's Solid Edge implementation is provided by UGS
+
+PLM Solutions as well as A+ Integrated Solutions Inc., a Solid Edge value- added
+
+reseller doing business in Oklahoma, Texas, Arkansas and Louisiana.
+
+
+
+The Solution
+
+
+
+Solid Edge (www.solidedge.com ) from UGS PLM Solutions is powerful 3D CAD
+
+software that allows manufacturing companies to Design with Insight and to
+
+reduce time to market, improve quality and lower cost. The exclusive Solid Edge
+
+Insight technology embeds design management capabilities directly within CAD,
+
+providing insight into design intent to the entire organization and enhancing
+
+collaboration. Insight, complemented by Solid Edge's superior core modeling and
+
+process workflows, has reduced Engineering Change Orders (ECOs) and their
+
+related rework by 50 percent or more. The extensive Solid Edge user community is
+
+comprised of designers at thousands of companies worldwide, including Alcoa, NEC
+
+Engineering, and Volvo. The Solid Edge Voyager Program includes almost 200
+
+integrated engineering software applications and computer hardware solutions.
+
+
+
+About DAC
+
+
+
+As a member of the United States defense community, the Defense Ammunition
+
+Center (www.dac.army.mil/default1.html ) has many unique and special
+
+capabilities that serve the ammunition industry, both government and private,
+
+around the globe. This Oklahoma-based organization is part of the U.S. Army
+
+Joint Munitions Command, which is the largest subordinate command under the U.S.
+
+Army Materiel Command.
+
+
+
+About UGS PLM Solutions
+
+
+
+UGS PLM Solutions, a leader in product data management, collaboration and
+
+product design software and services with 41,000 clients and more than 2.6
+
+million seats of technology operating in the market, is the product lifecycle
+
+management (PLM) subsidiary of EDS. The company works collaboratively with its
+
+clients to create solutions enabling them to transform their process of
+
+innovation and thus begin to capture the promise of PLM. The integration of the
+
+former operations of companies including Structural Dynamics Research
+
+Corporation (SDRC), Engineering Animation Inc. (EAI) and UGS, UGS PLM Solutions
+
+has created some of the leading design, collaboration and product data
+
+management technologies that ultimately formed the foundation of the PLM
+
+industry. Today, the company is a family of one, building on three decades of
+
+leadership in continuing to be a pioneer in PLM. For more information on UGS PLM
+
+Solutions products and services, visit www.ugsplmsolutions.com or www.eds.com .
+
+
+
+About EDS
+
+
+
+EDS, the world's most experienced outsourcing services company, delivers
+
+superior returns to clients through its cost-effective, high-value services
+
+model. EDS' core portfolio comprises information-technology and business process
+
+outsourcing services, as well as information-technology transformation services.
+
+EDS' two complementary, subsidiary businesses are A.T. Kearney, one of the
+
+world's leading high-value management consultancies, and UGS PLM Solutions, a
+
+leader in product data management, collaboration and product design software.
+
+With 2003 revenue of $21.5 billion, EDS is ranked 80th on the Fortune 500. The
+
+company's stock is traded on the New York and London stock exchanges. Learn more
+
+at www.eds.com .
+
+
+
+Note to editors: Solid Edge is a registered trademark of EDS or its subsidiaries
+
+in the United States and in other countries. All other trademarks, registered
+
+trademarks or service marks belong to their respective holders.
+
+
+
+The statements in this news release that are not historical statements,
+
+including statements regarding the amount of new contract values, are forward-
+
+looking statements within the meaning of the federal securities laws. These
+
+statements are subject to numerous risks and uncertainties, many of which are
+
+beyond EDS' control, which could cause actual results to differ materially from
+
+such statements. For information concerning these risks and uncertainties, see
+
+EDS' most recent Form 10-Q. EDS disclaims any intention or obligation to update
+
+or revise any forward-looking statements, whether as a result of new
+
+information, future events or otherwise.
+
+
+
+CONTACT:
+
+     Mike Paludan - UGS PLM Solutions
+
+     256-705-2544
+
+     mike.paludan@eds.com
+
+
+
+SOURCE UGS PLM Solutions
+
+
+
+CONTACT: Mike Paludan of UGS PLM Solutions, +1-256-705-2544, or
+
+mike.paludan@eds.com
+
+
+
+URL: http://www.prnewswire.com
+
+
+
+LOAD-DATE: February 12, 2004
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+DISTRIBUTION: TO BUSINESS AND TECHNOLOGY EDITORS
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+                  Copyright 2004 PR Newswire Association, Inc.
+
+
+
+
+

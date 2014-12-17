@@ -1,0 +1,1 @@
+('Google', 'NNP')('Inc', 'NNP')('GOOGL', 'NNP')('Q3', 'NNP')('Earnings', 'NNP')('Swing', 'NNP')('and', 'CC')('a', 'DT')('Miss', 'NNP')

@@ -1,0 +1,3447 @@
+aa,PR Newswire,20101115,14:36,331960
+                              279 of 858 DOCUMENTS
+
+
+
+
+
+                                  PR Newswire
+
+
+
+                      November 15, 2010 Monday 2:36 PM EST
+
+
+
+Reportlinker Adds Global Insulated Wire And Cable Industry
+
+
+
+LENGTH: 6523 words
+
+
+
+DATELINE: NEW YORK, Nov. 15, 2010
+
+
+
+
+
+NEW YORK, Nov. 15, 2010 /PRNewswire/ --Reportlinker.com announces that a new
+
+market research report is available in its catalogue:
+
+
+
+Global Insulated Wire And Cable Industry
+
+
+
+http://www.reportlinker.com/p092515/Global-Insulated-Wire-And-Cable-Industry.htm
+
+l
+
+
+
+This report analyzes the worldwide markets for Insulated Wire and Cable in US$
+
+Million by the following Product Segments: Building Wire and Cable, Electronic
+
+Wire and Cable, Power Wire and Cable, Telecommunications, Data Wire and Cable,
+
+and Other Insulated Wires and Cables. The report provides separate comprehensive
+
+analytics for the US, Canada, Japan, Europe, Asia Pacific, Middle East, and
+
+Latin America. Annual estimates and forecasts are provided for each region for
+
+the period 2007 through 2015. Also, a seven-year historic analysis is provided
+
+for these markets. The report profiles 273 companies including many key and
+
+niche players such as ABL Electronic Supplies, Inc., ADC Telecommunications,
+
+Inc., AEI Cables Ltd., Alcan Cable, Alcatel-Lucent SA, Alcoa, Inc., Amphenol
+
+Corp., Asia Pacific Wire & Cable Corporation Ltd., Belden Inc., Brand-Rex Ltd.,
+
+Cable USA Inc, Carlisle Interconnect Technologies, Cerro Wire LLC, Coleman
+
+Cable, Inc., CommScope, Inc., Corning Incorporated, Delphi Corporation, Draka
+
+Holding N.V., Draka Limited, Electrical Components International, Encore Wire
+
+Corporation, Finolex Cables Ltd., Fujikura Ltd., Furukawa Electric Company
+
+Limited, General Cable Corporation, Phelps Dodge International Corp., Hitachi
+
+Cable Ltd, LaBarge, Inc., LS Cable Limited, Superior Essex Incorporated, MOLEX,
+
+Inc., NEXANS, NKT Cables Group GmbH, Olex Cables Limited, Prysmian Cables &
+
+Systems Ltd., Rea Magnet Wire Company, Inc., Southwire Company, American
+
+Insulated Wire Corp., Sumitomo Electric Industries Ltd., Tele-Fonika Kable
+
+Handel S.A.., and The Okonite Company. Market data and analytics are derived
+
+from primary and secondary research. Company profiles are mostly extracted from
+
+URL research and reported select online sources.
+
+
+
+INSULATED WIRE AND CABLE - MCP-1164
+
+
+
+A GLOBAL STRATEGIC BUSINESS REPORT
+
+
+
+CONTENTS
+
+
+
+1. INTRODUCTION, METHODOLOGY & PRODUCT DEFINITIONS 1
+
+
+
+Study Reliability and Reporting Limitations 1
+
+
+
+Disclaimers 2
+
+
+
+Data Interpretation & Reporting Level 3
+
+
+
+CAGR Disparities Between Historic & Current Data 3
+
+
+
+Quantitative Techniques & Analytics 3
+
+
+
+Product Definitions and Scope of Study 3
+
+
+
+Building Wire and Cable 4
+
+
+
+Electronic Wire and Cable 4
+
+
+
+Power Wire and Cable 4
+
+
+
+Telecommunications, Data Wire and Cable 4
+
+
+
+Other Insulated Wire and Cable 4
+
+
+
+Control and Signal Wire and Cable 4
+
+
+
+Apparatus Wire and Cable 4
+
+
+
+2. MARKET ANALYSIS 5
+
+
+
+Current and Future Analysis 5
+
+
+
+Information Processing and Communications Markets Forge Ahead 5
+
+
+
+Asia Gaining Ground as Potential Market for Installation Cable 5
+
+
+
+Recession Impacts Market 5
+
+
+
+Market Remains Optimistic 6
+
+
+
+3. PRODUCT OVERVIEW 7
+
+
+
+Insulated Wire and Cable 7
+
+
+
+Conductors 7
+
+
+
+Overview of Key Conducting Materials 7
+
+
+
+Copper 7
+
+
+
+Aluminum 8
+
+
+
+Insulation 8
+
+
+
+Resins 9
+
+
+
+Polyethylene 9
+
+
+
+Polyvinyl Chloride (PVC) 9
+
+
+
+Fluorinated Ethylene-Propylene (FEP) 10
+
+
+
+Other 10
+
+
+
+Polypropylene 10
+
+
+
+Thermoplastic Elastomers (TPE) 10
+
+
+
+Stabilizers 11
+
+
+
+Plasticizers 12
+
+
+
+Fillers 12
+
+
+
+Flame Retardants 12
+
+
+
+Lubricants 12
+
+
+
+Colorants 12
+
+
+
+Armor 13
+
+
+
+Cable Jacket 13
+
+
+
+Cable Shielding 13
+
+
+
+4. PRODUCT SEGMENTS 14
+
+
+
+Building Wire and Cable 14
+
+
+
+Electronic Wire and Cable 14
+
+
+
+Semi-Rigid 14
+
+
+
+Coaxial Cable 14
+
+
+
+Hook-Up Wire, Single Conductor 14
+
+
+
+Ribbon Cable 14
+
+
+
+Multi-Conductor Cable 14
+
+
+
+Power Wire and Cable 14
+
+
+
+Up to 2kv 15
+
+
+
+Between 2.1 and 15kv 15
+
+
+
+Above 15kv 16
+
+
+
+Underground Power Cable - 0-2kv 16
+
+
+
+Underground Power Cable - 2kv and Over 16
+
+
+
+Telecommunications, Data Wire and Cable 16
+
+
+
+Drop Wire 16
+
+
+
+Bridle Wire 17
+
+
+
+Telephone Cord Sets 17
+
+
+
+Optical Fiber 17
+
+
+
+Fiber Optic Technology 17
+
+
+
+Fiber Optic Cable 17
+
+
+
+Demand 18
+
+
+
+Types of Optical Fiber 18
+
+
+
+All Glass Optical Fiber (Single Mode) 18
+
+
+
+All Glass Optical Fiber (Multi Mode) 18
+
+
+
+Other Optical Fiber Types 18
+
+
+
+Plastic Clad Glass Fiber 18
+
+
+
+All Plastic Optical Fiber 19
+
+
+
+Noncoherent Bundle 19
+
+
+
+Coherent Bundle 19
+
+
+
+Faceplate 19
+
+
+
+Other Insulated Wire and Cable 19
+
+
+
+Control and Signal Wire and Cable 19
+
+
+
+Apparatus Wire and Cable 19
+
+
+
+5. PRODUCT INTRODUCTIONS/INNOVATIONS 20
+
+
+
+Southwire Introduces SIMpull Power Cable 20
+
+
+
+Weidmuller Launches Stripax® and Stripax® 16 Tools 20
+
+
+
+Alcan Cable Launches NUAL® WIDESTRIPE(TM) RW90 Cable 20
+
+
+
+Nexans Debuts INFIT(TM) Insulation Technology 21
+
+
+
+Leviton Network and Superior Essex Debut NextLAN® 10GC AXi
+
+
+
+Cabling System 22
+
+
+
+OKI Electric and Japan Aviation Jointly Develop Optical Fiber
+
+
+
+Power Cable 23
+
+
+
+Zeus Launches Insulated Peek Wire 23
+
+
+
+Gepco Unveils X-Band Audio Cables 24
+
+
+
+3M Introduces New Version of MDR Camera Link Full
+
+
+
+Configuration cable 24
+
+
+
+Alcan Cable Introduces First Aluminum Alloy Cable STABILOY(TM) 24
+
+
+
+Hitachi Cable to Introduce InfiniGreen Optical Active Cables Line 25
+
+
+
+ADC Launches OmniReach® Reduced Bend Cable 25
+
+
+
+Draka Launches Novel High-Performance Cables 25
+
+
+
+6. PRODUCT INNOVATIONS/LAUNCHES IN RECENT PAST - A PERSPECTIVE
+
+
+
+BUILDER 26
+
+
+
+BELDEN Expands FiberExpress® Product Line 26
+
+
+
+Coleman Launches New Range of Media Control Cables 26
+
+
+
+Alcan Introduces STABILOY® FeederPlex(TM) Cable 26
+
+
+
+LS Cable Develops Novel Cable 26
+
+
+
+FieldSafe Unveils Anti-Magnetic Lightning Resistant Product 26
+
+
+
+CommScope Rolls Out New FXL 780 Version of Extremeflex® Cable 27
+
+
+
+Prysmian Introduces CasaLight(TM) Optical Fiber Cable 27
+
+
+
+Belden Introduces New 10GX Small Diameter Cables 27
+
+
+
+Nexans' DuoTrack Cabling Solution Receives EBA Approval 27
+
+
+
+ADC Launches New TrueNet® CopperTen® Cabling System Solutions 28
+
+
+
+Alcan Cable Introduces MODEX(TM) Modular Wiring Systems 28
+
+
+
+Alcan Cable Unveils N2(TM) NUAL® Cable for Electrical Systems 28
+
+
+
+CommScope Launches Extremeflex® FXL 1873 Aluminum Cable 28
+
+
+
+Belden® Launches Two New IndustrialTuff® DeviceBus Cables 29
+
+
+
+Hitachi Develops Ultra-Fine Copper-Alloy Wire & Micro Coaxial
+
+
+
+Cable Production Technique 29
+
+
+
+Belden® Expands IndustrialTuff® ControlBus® Cable Portfolio 29
+
+
+
+LS Cable Develops Low-Loss Feeder Cable for RF Transmission
+
+
+
+Networks 30
+
+
+
+Superior Essex Rolls Out New Range of Fiber Ribbon Cable Products 30
+
+
+
+NextLAN 10Gc Complies with IEEE Standards for 10-GbE Transmission 30
+
+
+
+Belden Introduces New Products in its IndustrialTuff® VFD
+
+
+
+Cables Portfolio 30
+
+
+
+Belden Rolls Out New DataBus Cables 31
+
+
+
+Furukawa Introduces Triple Insulted Winding Wire 31
+
+
+
+Belden Launches IBDN Cable Management Solutions 31
+
+
+
+Klein Launches Insulated Wire Stripper/Cutter 32
+
+
+
+Dätwyler Introduces Innovative Data/Multimedia Cable Systems 32
+
+
+
+7. RECENT INDUSTRY ACTIVITY 33
+
+
+
+Southwire Acquires Assets of American Insulated Wire 33
+
+
+
+Relemac Technologies and Relemac Overseas Announce Merger 33
+
+
+
+Prysmian Acquires Majority Stake in Ravin Cables 34
+
+
+
+ABB to Construct New Factory 34
+
+
+
+Alcan Cable Introduces Shi De He Jin Brand Name (US/China) 34
+
+
+
+Nexans to Supply Power Cables to Linth-Limmern Hydropower Project 35
+
+
+
+Alcoa Divests Wire Harness and Electrical Distribution Business 35
+
+
+
+JDR Cable Systems Bags Contract to Supply Power Array Cables 35
+
+
+
+Sakai Chemical Starts Operation of Plastic Additive Facility
+
+
+
+in Vietnam 36
+
+
+
+Elsewedy Establishes New Electric Cable Facility 36
+
+
+
+Carlisle Companies Acquires Electronic Cable Specialists 36
+
+
+
+General Cable Acquires Gepco International/Isotec 36
+
+
+
+V-Guard Industries Establishes New Power Cable Facilities 37
+
+
+
+Nexans Bags Brazilian Cable Contract from EBTE 37
+
+
+
+Southwire Company Snaps Up CableTech Global 37
+
+
+
+LS Cable Takes Over Superior Essex 37
+
+
+
+Tensolite Becomes Carlisle Interconnect Technologies 37
+
+
+
+RPG Cables Expands Mysore Production Facility 38
+
+
+
+Finolex Cables and J-Power Systems forms Joint Venture 38
+
+
+
+Berkshire Hathaway Acquires Majority Stake in Marmon Holdings 38
+
+
+
+Anixter International Acquires World Class Wire & Cable 38
+
+
+
+CommScope Shuts Down Facility in Brazil 38
+
+
+
+Verizon Buys Corning® ClearCurve(TM) Cable Range 39
+
+
+
+Superior Essex to Revamp Magnet Wire Manufacturing Facilities 39
+
+
+
+Murray Capital Acquires Brand-Rex 39
+
+
+
+Draka to Shut Down Facility 39
+
+
+
+Tele-Fonika Kable Merges with Tele-Fonika Kable Handel 39
+
+
+
+Yonezawa to Set Up New Facility 39
+
+
+
+FCL to Expand Capacity and Launch New Products 40
+
+
+
+DCL to Expand Production Facility 40
+
+
+
+SOTL Bags Major Contract from BSNL 40
+
+
+
+Prysmian Bags Contract from Libyan GPTC 40
+
+
+
+8. CORPORATE ACTIVITY IN RECENT PAST - A PERSPECTIVE BUILDER 41
+
+
+
+CommScope Acquires Andrew Corporation 41
+
+
+
+General Cable Sets Up Joint Ventures in India 41
+
+
+
+General Cable Acquires PDIC 41
+
+
+
+Superior Essex Acquires Invex S.p.A 41
+
+
+
+Superior Essex Acquires Essex Nexans 42
+
+
+
+Prysmian to Expand South Carolina Facility 42
+
+
+
+Merit Capital Pockets Cobra Wire 42
+
+
+
+Coleman Takes Over Copperfield 42
+
+
+
+Draka Acquires B3's House Wiring Cables Portfolio 42
+
+
+
+NKT Expands Facilities to Benefit from a Growing HV Cable Market 42
+
+
+
+Cabelte to Expand International Operations 43
+
+
+
+Eesti Energia to Build Second Undersea Cable 43
+
+
+
+LSCL to Set Up New Facility in India 43
+
+
+
+J-Power Systems and Finolex to Set Up JV 43
+
+
+
+Prysmian SpA and Telstra Ink Supply Agreement 43
+
+
+
+RPG to Expand Manufacturing Capacity of Power Cables 43
+
+
+
+TSC's New Production Facility Commences Operation 44
+
+
+
+SPS Acquires Indo American 44
+
+
+
+EIIC Sets Up New Cable and Wire Production Facility in Algeria 44
+
+
+
+Rapco International & Horizon Music Merge to Establish
+
+
+
+RapcoHorizon 44
+
+
+
+Superior Essex Acquires Nexans' Canadian & Chinese Magnet Wire
+
+
+
+Business 44
+
+
+
+General Cable Takes Over China's Jiangyin Huaming 45
+
+
+
+Tensolite Acquires Cable Assembly Factory in China 45
+
+
+
+LS Cable Bags Contract for Delivering Extra High-Voltage Cables 45
+
+
+
+Nexans Bags Contract for Underground Power Cable Circuit 45
+
+
+
+Nexans Wins Contract for Supplying LV & MV Cables in Vietnam 46
+
+
+
+Nexans Awarded Contract for Supplying Subsea Power Cables 46
+
+
+
+Nexans to Deliver Submarine Power Infrastructure Cable for
+
+
+
+Ontario Project 46
+
+
+
+Nexans to Deliver Shipboard Cables to Japanese Shipyards 47
+
+
+
+Nexans Wins (EURO)5.9 Million Contract for Supplying Cabling Systems 47
+
+
+
+GenTek Divests Noma Wire and Cable Assembly Business 47
+
+
+
+Andrew Establishes New Cable Production Facility in Goa 47
+
+
+
+LS Cable Obtains Global Supplier Approval from Vodafone 47
+
+
+
+NKT Cables Acquires Kablo Elektro Group 48
+
+
+
+General Cable Acquires ECN Cable Group 48
+
+
+
+Alpine Group Completes Acquisition of Essex Electric 48
+
+
+
+YFC-BonEagle Acquires Prime Wire & Cable 48
+
+
+
+Solartech Acquires Whirlpool's Brazilian Subsidiary 48
+
+
+
+CSC Acquires Calvert Wire & Cable Corporation 49
+
+
+
+Whitney Blake Acquires AWC; Strengthens Presence in Telecom
+
+
+
+Sector 49
+
+
+
+Leoni Takes Over Studer Cables 49
+
+
+
+Hitachi Cable Restructures Wire & Cable Business 49
+
+
+
+Anixter Acquires IMS 50
+
+
+
+International Wire Group Exits Insulated Wire Business Operations 50
+
+
+
+Ficap Invests US$15 Million to Modernize Copper Wires
+
+
+
+Production Line 50
+
+
+
+Hitachi Cable Merges Operations of Japanese Subsidiaries 51
+
+
+
+IWG Acquires Phelps Dodge High Performance Conductors Business 51
+
+
+
+Beijing Metro Selects Extremeflex® Aluminum Cables for its
+
+
+
+Wireless Network 51
+
+
+
+Draka Wins Multiple Contracts for Supplying Cables 51
+
+
+
+LS Cable Sets Up New Cable Production Facility in Vietnam 52
+
+
+
+LS Cable Bags Order for Cables from Samsung Heavy Industries 52
+
+
+
+Nexans Bags Contract for Supplying MV Power Cables 52
+
+
+
+Nexans Bags (EURO)5 Million Contract for High-Voltage Power Cables 52
+
+
+
+Nexans Bags Contract for Supply 170kV XLPE 3-Core Power Cable 53
+
+
+
+Nexans Acquires Australian Cable Company, Olex 53
+
+
+
+Nexans Establishes Power Cables Production Facility in Japan 53
+
+
+
+Nexans Bags Contract from ADWEA 53
+
+
+
+Nexans Wins Contract for Providing High Voltage Sub-Sea Power
+
+
+
+Cables 54
+
+
+
+Nexans & Viscas Set Up New Japanese Production Joint Venture 54
+
+
+
+Nexans Wins Contract to Supply Copper & Fiber Optic Telecom
+
+
+
+Cables 54
+
+
+
+Nexans Wins (EURO)98 Million Submarine Power Cable Contract from BP 55
+
+
+
+Nexans Supplies Fiber Optic Cables for Telecom Network in Norway 55
+
+
+
+Nexans Bags (EURO)10 Million Contract for XLPE & Fiber Optic Cables 55
+
+
+
+Nexans Bags Offshore Cables Supply Contract from HHI 55
+
+
+
+Nexans Bags DEH Cables Supply Contract from Statoil 55
+
+
+
+Prysmian Bags Contract to Install Submarine & Land DC Power
+
+
+
+Cables 56
+
+
+
+Alcatel Wins Turnkey Contract for Submarine Cable Network from
+
+
+
+OPT 56
+
+
+
+Alcatel and Lucent Merge 56
+
+
+
+Southwire Acquires Essex Electrical Products 56
+
+
+
+Candor Acquires Outokumpu's Wire Equipment Operations 57
+
+
+
+Severstal-metiz Acquires Carrington Wire 57
+
+
+
+Plastrade and Suzhou Enter into Joint Venture 57
+
+
+
+Cadivi Bags Three-Year Electrical Wire Supply Contract 57
+
+
+
+Innotelco Enters into Agreement with Fenghua Yuguang 57
+
+
+
+American Insulated Wire to Open New Facility 58
+
+
+
+Has Çelik Expands Capacity for Aluminium Wire 58
+
+
+
+Paras Wires Expands Operations 58
+
+
+
+Belden Reorganizes North American Operations 58
+
+
+
+Phelps Dodge Divests Magnet Wire Assets 59
+
+
+
+9. FOCUS ON SELECT PLAYERS 60
+
+
+
+ABL Electronic Supplies, Inc. (US) 60
+
+
+
+ADC Telecommunications, Inc. (US) 60
+
+
+
+AEI Cables Ltd. (UK) 60
+
+
+
+AFC Cable Systems, Inc. (US) 61
+
+
+
+Alcan Cable (Canada) 61
+
+
+
+Alcatel-Lucent SA (France) 61
+
+
+
+Alcoa, Inc. (US) 62
+
+
+
+Amphenol Corp. (US) 62
+
+
+
+Asia-Pacific Wire & Cable Corporation Ltd. (Taiwan) 62
+
+
+
+Belden, Inc. (US) 63
+
+
+
+Brand-Rex Ltd. (UK) 63
+
+
+
+Cable USA, Inc. (US) 64
+
+
+
+Carlisle Interconnect Technologies (US) 64
+
+
+
+Cerro Wire LLC (US) 64
+
+
+
+Coleman Cable, Inc. (US) 64
+
+
+
+CommScope, Inc. (US) 65
+
+
+
+Corning Incorporated (US) 66
+
+
+
+Copper Cable Company (UK) 66
+
+
+
+Delphi Corporation (US) 66
+
+
+
+Draka Holding N.V. (The Netherlands) 67
+
+
+
+Draka Limited (UK) 67
+
+
+
+Electrical Components International (US) 68
+
+
+
+Encore Wire Corporation (US) 68
+
+
+
+Finolex Cables Ltd (India) 68
+
+
+
+Fujikura Ltd. (Japan) 68
+
+
+
+Furukawa Electric Company Limited (Japan) 69
+
+
+
+General Cable Corporation (US) 69
+
+
+
+Phelps Dodge International Corp. (US) 69
+
+
+
+Hitachi Cable Ltd (Japan) 70
+
+
+
+LaBarge, Inc. (US) 70
+
+
+
+LS Cable Limited (South Korea) 70
+
+
+
+Superior Essex Incorporated (US) 70
+
+
+
+MOLEX, Inc. (US) 71
+
+
+
+NEXANS (France) 71
+
+
+
+NKT Cables Group GmbH (Germany) 72
+
+
+
+Olex Cables Limited (Australia) 72
+
+
+
+Permanoid Ltd. (UK) 72
+
+
+
+Prysmian Cables & Systems Ltd. (UK) 72
+
+
+
+Rea Magnet Wire Company, Inc. (US) 73
+
+
+
+Southwire Company (US) 73
+
+
+
+American Insulated Wire Corp (US) 74
+
+
+
+Sumitomo Electric Industries Ltd. (Japan) 74
+
+
+
+Tele-Fonika Kable Handel S.A. (Poland) 74
+
+
+
+The Okonite Company (US) 75
+
+
+
+10. GLOBAL MARKET PERSPECTIVE 76
+
+
+
+Table 1: World Recent Past, Current & Future Analysis for
+
+
+
+Insulated Wire and Cable by Geographic Region - US, Canada,
+
+
+
+Japan, Europe, Asia Pacific (excluding Japan), Middle East,
+
+
+
+and Latin America Markets Independently Analyzed with Annual
+
+
+
+Sales Figures in US$ Million for Years 2007 through 2015
+
+
+
+(includes corresponding Graph/Chart) 76
+
+
+
+Table 2: World Historic Review for Insulated Wire and Cable by
+
+
+
+Geographic Region - US, Canada, Japan, Europe, Asia Pacific
+
+
+
+(excluding Japan), Middle East, and Latin America Markets
+
+
+
+Independently Analyzed with Annual Sales Figures in US$
+
+
+
+Million for Years 2000 through 2006 (includes corresponding
+
+
+
+Graph/Chart) 77
+
+
+
+Table 3: World 11-Year Perspective for Insulated Wire and
+
+
+
+Cable by Geographic Region - Percentage Breakdown of Dollar
+
+
+
+Sales for US, Canada, Japan, Europe, Asia Pacific (excluding
+
+
+
+Japan), Middle East, and Latin America Markets for Years 2005,
+
+
+
+2010 and 2015 (includes corresponding Graph/Chart) 78
+
+
+
+Table 4: World Recent Past, Current & Future Analysis for
+
+
+
+Building Wire and Cable by Geographic Region - US, Canada,
+
+
+
+Japan, Europe, Asia Pacific (excluding Japan), Middle East,
+
+
+
+and Latin America Markets Independently Analyzed with Annual
+
+
+
+Sales Figures in US$ Million for Years 2007 through 2015
+
+
+
+(includes corresponding Graph/Chart) 79
+
+
+
+Table 5: World Historic Review for Building Wire and Cable by
+
+
+
+Geographic Region - US, Canada, Japan, Europe, Asia Pacific
+
+
+
+(excluding Japan), Middle East, and Latin America Markets
+
+
+
+Independently Analyzed with Annual Sales Figures in US$
+
+
+
+Million for Years 2000 through 2006 (includes corresponding
+
+
+
+Graph/Chart) 80
+
+
+
+Table 6: World 11-Year Perspective for Building Wire and Cable
+
+
+
+by Geographic Region - Percentage Breakdown of Dollar Sales
+
+
+
+for US, Canada, Japan, Europe, Asia Pacific (excluding Japan),
+
+
+
+Middle East, and Latin America Markets for Years 2005, 2010
+
+
+
+and 2015 (includes corresponding Graph/Chart) 81
+
+
+
+Table 7: World Recent Past, Current & Future Analysis for
+
+
+
+Electronic Wire and Cable by Geographic Region - US, Canada,
+
+
+
+Japan, Europe, Asia Pacific (excluding Japan), Middle East,
+
+
+
+and Latin America Markets Independently Analyzed with Annual
+
+
+
+Sales Figures in US$ Million for Years 2007 through 2015
+
+
+
+(includes corresponding Graph/Chart) 82
+
+
+
+Table 8: World Historic Review for Electronic Wire and Cable
+
+
+
+by Geographic Region - US, Canada, Japan, Europe, Asia Pacific
+
+
+
+(excluding Japan), Middle East, and Latin America Markets
+
+
+
+Independently Analyzed with Annual Sales Figures in US$
+
+
+
+Million for Years 2000 through 2006 (includes corresponding
+
+
+
+Graph/Chart) 83
+
+
+
+Table 9: World 11-Year Perspective for Electronic Wire and
+
+
+
+Cable by Geographic Region - Percentage Breakdown of Dollar
+
+
+
+Sales for US, Canada, Japan, Europe, Asia Pacific (excluding
+
+
+
+Japan), Middle East, and Latin America Markets for Years 2005,
+
+
+
+2010 and 2015 (includes corresponding Graph/Chart) 84
+
+
+
+Table 10: World Recent Past, Current & Future Analysis for
+
+
+
+Power Wire and Cable by Geographic Region - US, Canada, Japan,
+
+
+
+Europe, Asia Pacific (excluding Japan), Middle East, and Latin
+
+
+
+America Markets Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2007 through 2015 (includes
+
+
+
+corresponding Graph/Chart) 85
+
+
+
+Table 11: World Historic Review for Power Wire and Cable by
+
+
+
+Geographic Region - US, Canada, Japan, Europe, Asia Pacific
+
+
+
+(excluding Japan), Middle East, and Latin America Markets
+
+
+
+Independently Analyzed with Annual Sales Figures in US$
+
+
+
+Million for Years 2000 through 2006 (includes corresponding
+
+
+
+Graph/Chart) 86
+
+
+
+Table 12: World 11-Year Perspective for Power Wire and Cable
+
+
+
+by Geographic Region - Percentage Breakdown of Dollar Sales
+
+
+
+for US, Canada, Japan, Europe, Asia Pacific (excluding Japan),
+
+
+
+Middle East, and Latin America Markets for Years 2005, 2010
+
+
+
+and 2015 (includes corresponding Graph/Chart) 87
+
+
+
+Table 13: World Recent Past, Current & Future Analysis for
+
+
+
+Telecommunications, Data Wire and Cable by Geographic Region -
+
+
+
+US, Canada, Japan, Europe, Asia Pacific (excluding Japan),
+
+
+
+Middle East, and Latin American Markets Independently Analyzed
+
+
+
+with Annual Sales Figures in US$ Million for Years 2007
+
+
+
+through 2015 (includes corresponding Graph/Chart) 88
+
+
+
+Table 14: World Historic Review for Telecommunications, Data
+
+
+
+Wire and Cable by Geographic Region - US, Canada, Japan,
+
+
+
+Europe, Asia Pacific (excluding Japan), Middle East, and Latin
+
+
+
+America Markets Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2000 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 89
+
+
+
+Table 15: World 11-Year Perspective for Telecommunications,
+
+
+
+Data Wire and Cable by Geographic Region - Percentage
+
+
+
+Breakdown of Dollar Sales for US, Canada, Japan, Europe, Asia
+
+
+
+Pacific (excluding Japan), Middle East, and Latin America
+
+
+
+Markets for Years 2005, 2010 and 2015 (includes corresponding
+
+
+
+Graph/Chart) 90
+
+
+
+Table 16: World Recent Past, Current & Future Analysis for
+
+
+
+Other Insulated Wires and Cables by Geographic Region - US,
+
+
+
+Canada, Japan, Europe, Asia Pacific (excluding Japan), Middle
+
+
+
+East, and Latin America Markets Independently Analyzed with
+
+
+
+Annual Sales Figures in US$ Million for Years 2007 through 2015
+
+
+
+(includes corresponding Graph/Chart) 91
+
+
+
+Table 17: World Historic Review for Other Insulated Wires and
+
+
+
+Cables by Geographic Region - US, Canada, Japan, Europe, Asia
+
+
+
+Pacific (excluding Japan), Middle East, and Latin America
+
+
+
+Markets Independently Analyzed with Annual Sales Figures in
+
+
+
+US$ Million for Years 2000 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 92
+
+
+
+Table 18: World 11-Year Perspective for Other Insulated Wires
+
+
+
+and Cables by Geographic Region - Percentage Breakdown of
+
+
+
+Dollar Sales for US, Canada, Japan, Europe, Asia Pacific
+
+
+
+(excluding Japan), Middle East, and Latin America Markets for
+
+
+
+Years 2005, 2010 and 2015 (includes corresponding Graph/Chart) 93
+
+
+
+11. THE UNITED STATES 94
+
+
+
+A.Market Analysis 94
+
+
+
+Current and Future Analysis 94
+
+
+
+Homes and Businesses Get Wired for Future Broadband Service 94
+
+
+
+Regulatory Environment 94
+
+
+
+Design for Environment (Dfe) Program 94
+
+
+
+Overview of the Wire and Cable Industry: Historic Review95
+
+
+
+Raw Material Overview 95
+
+
+
+B.Market Analytics 96
+
+
+
+Table 19: US Recent Past, Current & Future Analysis for
+
+
+
+Insulated Wire and Cable by Product Segment - Building Wire
+
+
+
+and Cable; Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2007 through 2015 (includes
+
+
+
+corresponding Graph/Chart) 96
+
+
+
+Table 20: US Historic Review for Insulated Wire and Cable by
+
+
+
+Product Segment - Building Wire and Cable; Electronic Wire
+
+
+
+and Cable; Power Wire and Cable; Telecommunications, Data
+
+
+
+Wire and Cable; and Other Insulated Wires and Cables
+
+
+
+Independently Analyzed with Annual Sales Figures in US$
+
+
+
+Million for Years 2000 through 2006 (includes corresponding
+
+
+
+Graph/Chart) 97
+
+
+
+Table 21: US 11-Year Perspective for Insulated Wire and
+
+
+
+Cable by Product Segment - Percentage Breakdown of Dollar
+
+
+
+Sales for Building Wire and Cable; Electronic Wire and
+
+
+
+Cable; Power Wire and Cable; Telecommunications, Data Wire
+
+
+
+and Cable; and Other Insulated Wires and Cables for Years
+
+
+
+2005, 2010 and 2015 (includes corresponding Graph/Chart) 98
+
+
+
+12. CANADA 99
+
+
+
+Market Analysis 99
+
+
+
+Table 22: Canadian Recent Past, Current & Future Analysis
+
+
+
+for Insulated Wire and Cable by Product Segment - Building
+
+
+
+Wire and Cable; Electronic Wire and Cable; Power Wire and
+
+
+
+Cable; Telecommunications, Data Wire and Cable; and Other
+
+
+
+Insulated Wires and Cables Independently Analyzed with
+
+
+
+Annual Sales Figures in US$ Million for Years 2007 through
+
+
+
+2015 (includes corresponding Graph/Chart) 99
+
+
+
+Table 23: Canadian Historic Review for Insulated Wire and
+
+
+
+Cable by Product Segment - Building Wire and Cable;
+
+
+
+Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2000 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 100
+
+
+
+Table 24: Canadian 11-Year Perspective for Insulated Wire
+
+
+
+and Cable by Product Segment - Percentage Breakdown of
+
+
+
+Dollar Sales for Building Wire and Cable; Electronic Wire
+
+
+
+and Cable; Power Wire and Cable; Telecommunications, Data
+
+
+
+Wire and Cable; and Other Insulated Wires and Cables for
+
+
+
+Years 2005, 2010 and 2015 (includes corresponding
+
+
+
+Graph/Chart) 101
+
+
+
+13. JAPAN 102
+
+
+
+A.Market Analysis 102
+
+
+
+Current and Future Analysis 102
+
+
+
+Trends in the Japanese Wire & Cable Market-Historic Review 102
+
+
+
+Table 25: Demand for Optical Fiber Cable in Japan
+
+
+
+(2001-2005) in 000' km core (includes corresponding
+
+
+
+Graph/Chart) 102
+
+
+
+B.Market Analytics 103
+
+
+
+Table 26: Japanese Recent Past, Current & Future Analysis
+
+
+
+for Insulated Wire and Cable by Product Segment - Building
+
+
+
+Wire and Cable; Electronic Wire and Cable; Power Wire and
+
+
+
+Cable; Telecommunications, Data Wire and Cable; and Other
+
+
+
+Insulated Wires and Cables Independently Analyzed with
+
+
+
+Annual Sales Figures in US$ Million for Years 2007 through
+
+
+
+2015 (includes corresponding Graph/Chart) 103
+
+
+
+Table 27: Japanese Historic Review for Insulated Wire and
+
+
+
+Cable by Product Segment - Building Wire and Cable;
+
+
+
+Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2000 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 104
+
+
+
+Table 28: Japanese 11-Year Perspective for Insulated Wire
+
+
+
+and Cable by Product Segment - Percentage Breakdown of
+
+
+
+Dollar Sales for Building Wire and Cable; Electronic Wire
+
+
+
+and Cable; Power Wire and Cable; Telecommunications, Data
+
+
+
+Wire and Cable; and Other Insulated Wires and Cables for
+
+
+
+Years 2005, 2010 and 2015 (includes corresponding
+
+
+
+Graph/Chart) 105
+
+
+
+14. EUROPE 106
+
+
+
+A.Market Analysis 106
+
+
+
+Current and Future Analysis 106
+
+
+
+Production Stats - Historic 106
+
+
+
+Table 29: Wire and Cable Production (2000-2004) in Select
+
+
+
+European Countries (In '000 Tons Conductor) (includes
+
+
+
+corresponding Graph/Chart) 106
+
+
+
+Electrical Cables Market 107
+
+
+
+European Market for Magnet Wire 107
+
+
+
+B.Market Analytics 107
+
+
+
+Table 30: European Recent Past, Current & Future Analysis
+
+
+
+for Insulated Wire and Cable by Geographic Region - France,
+
+
+
+Germany, Italy, UK, Spain, Russia, and Rest of Europe
+
+
+
+Markets Independently Analyzed with Annual Sales Figures in
+
+
+
+US$ Million for Years 2007 through 2015 (includes
+
+
+
+corresponding Graph/Chart) 107
+
+
+
+Table 31: European Historic Review for Insulated Wire and
+
+
+
+Cable by Geographic Region - France, Germany, Italy, UK,
+
+
+
+Spain, Russia, and Rest of Europe Markets Independently
+
+
+
+Analyzed with Annual Sales Figures in US$ Million for Years
+
+
+
+2000 through 2006 (includes corresponding Graph/Chart) 108
+
+
+
+Table 32: European Recent Past, Current & Future Analysis
+
+
+
+for Insulated Wire and Cable by Product Segment - Building
+
+
+
+Wire and Cable; Electronic Wire and Cable; Power Wire and
+
+
+
+Cable; Telecommunications, Data Wire and Cable; and Other
+
+
+
+Insulated Wires and Cables Independently Analyzed with
+
+
+
+Annual Sales Figures in US$ Million for Years 2007 through
+
+
+
+2015 (includes corresponding Graph/Chart) 109
+
+
+
+Table 33: European Historic Review for Insulated Wire and
+
+
+
+Cable by Product Segment - Building Wire and Cable;
+
+
+
+Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2000 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 110
+
+
+
+Table 34: European 11-Year Perspective for Insulated Wire
+
+
+
+and Cable by Geographic Region - Percentage Breakdown of
+
+
+
+Dollar Sales for France, Germany, Italy, UK, Spain, Russia,
+
+
+
+and Rest of Europe Markets for Years 2005, 2010 and 2015
+
+
+
+(includes corresponding Graph/Chart) 111
+
+
+
+Table 35: European 11-Year Perspective for Insulated Wire
+
+
+
+and Cable by Product Segment - Building Wire and Cable;
+
+
+
+Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables for Years 2005, 2010 and 2015 (includes
+
+
+
+corresponding Graph/Chart) 112
+
+
+
+14a.FRANCE 113
+
+
+
+Market Analysis 113
+
+
+
+Table 36: French Recent Past, Current & Future Analysis for
+
+
+
+Insulated Wire and Cable by Product Segment - Building Wire
+
+
+
+and Cable; Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2007 through 2015 (includes
+
+
+
+corresponding Graph/Chart) 113
+
+
+
+Table 37: French Historic Review for Insulated Wire and
+
+
+
+Cable by Product Segment - Building Wire and Cable;
+
+
+
+Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2000 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 114
+
+
+
+Table 38: French 11-Year Perspective for Insulated Wire and
+
+
+
+Cable by Product Segment - Percentage Breakdown of Dollar
+
+
+
+Sales for Building Wire and Cable; Electronic Wire and
+
+
+
+Cable; Power Wire and Cable; Telecommunications, Data Wire
+
+
+
+and Cable; and Other Insulated Wires and cables for Years
+
+
+
+2005, 2010 and 2015 (includes corresponding Graph/Chart) 115
+
+
+
+14b.GERMANY 116
+
+
+
+Market Analysis 116
+
+
+
+Table 39: German Recent Past, Current & Future Analysis for
+
+
+
+Insulated Wire and Cable by Product Segment - Building Wire
+
+
+
+and Cable; Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and ables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2007 through 2015 (includes
+
+
+
+corresponding Graph/Chart) 116
+
+
+
+Table 40: German Historic Review for Insulated Wire and
+
+
+
+Cable by Product Segment - Building Wire and Cable;
+
+
+
+Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2000 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 117
+
+
+
+Table 41: German 11-Year Perspective for Insulated Wire and
+
+
+
+Cable by Product Segment - Percentage Breakdown of Dollar
+
+
+
+Sales for Building Wire and Cable; Electronic Wire and
+
+
+
+Cable; Power Wire and Cable; Telecommunications, Data Wire
+
+
+
+and Cable; and Other Insulated Wires and Cables for Years
+
+
+
+2005, 2010 and 2015 (includes corresponding Graph/Chart) 118
+
+
+
+14c.ITALY 119
+
+
+
+Market Analysis 119
+
+
+
+Table 42: Italian Recent Past, Current & Future Analysis for
+
+
+
+Insulated Wire and Cable by Product Segment - Building Wire
+
+
+
+and Cable; Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2007 through 2015 (includes
+
+
+
+corresponding Graph/Chart) 119
+
+
+
+Table 43: Italian Historic Review for Insulated Wire and
+
+
+
+Cable by Product Segment - Building Wire and Cable;
+
+
+
+Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2000 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 120
+
+
+
+Table 44: Italian 11-Year Perspective for Insulated Wire and
+
+
+
+Cable by Product Segment - Percentage Breakdown of Dollar
+
+
+
+Sales for Building Wire and Cable; Electronic Wire and
+
+
+
+Cable; Power Wire and Cable; Telecommunications, Data Wire
+
+
+
+and Cable; and Other Insulated Wires and Cables for Years
+
+
+
+2005, 2010 and 2015 (includes corresponding Graph/Chart) 121
+
+
+
+14d.THE UNITED KINGDOM 122
+
+
+
+A.Market Analysis 122
+
+
+
+Current and Future Analysis 122
+
+
+
+Impact of Growing Material Costs on Cable Prices 122
+
+
+
+B.Market Analytics 123
+
+
+
+Table 45: UK Recent Past, Current & Future Analysis for
+
+
+
+Insulated Wire and Cable by Product Segment - Building Wire
+
+
+
+and Cable; Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2007 through 2015 (includes
+
+
+
+corresponding Graph/Chart) 123
+
+
+
+Table 46: UK Historic Review for Insulated Wire and Cable by
+
+
+
+Product Segment - Building Wire and Cable; Electronic Wire
+
+
+
+and Cable; Power Wire and Cable; Telecommunications, Data
+
+
+
+Wire and Cable; and Other Insulated Wires and Cables
+
+
+
+Independently Analyzed with Annual Sales Figures in US$
+
+
+
+Million for Years 2000 through 2006 (includes corresponding
+
+
+
+Graph/Chart) 124
+
+
+
+Table 47: UK 11-Year Perspective for Insulated Wire and
+
+
+
+Cable by Product Segment - Percentage Breakdown of Dollar
+
+
+
+Sales for Building Wire and Cable; Electronic Wire and
+
+
+
+Cable; Power Wire and Cable; Telecommunications, Data Wire
+
+
+
+and Cable; and Other Insulated Wires and Cables for Years
+
+
+
+2005, 2010 and 2015 (includes corresponding Graph/Chart) 125
+
+
+
+14e.SPAIN 126
+
+
+
+Market Analysis 126
+
+
+
+Table 48: Spanish Recent Past, Current & Future Analysis for
+
+
+
+Insulated Wire and Cable by Product Segment - Building Wire
+
+
+
+and Cable; Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2007 through 2015 (includes
+
+
+
+corresponding Graph/Chart) 126
+
+
+
+Table 49: Spanish Historic Review for Insulated Wire and
+
+
+
+Cable by Product Segment - Building Wire and Cable;
+
+
+
+Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2000 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 127
+
+
+
+Table 50: Spanish 11-Year Perspective for Insulated Wire and
+
+
+
+Cable by Product Segment - Percentage Breakdown of Dollar
+
+
+
+Sales for Building Wire and Cable; Electronic Wire and
+
+
+
+Cable; Power Wire and Cable; Telecommunications, Data Wire
+
+
+
+and Cable; and Other Insulated Wires and Cables for Years
+
+
+
+2005, 2010 and 2015 (includes corresponding Graph/Chart) 128
+
+
+
+14f.RUSSIA 129
+
+
+
+Market Analysis 129
+
+
+
+Table 51: Russian Recent Past, Current & Future Analysis for
+
+
+
+Insulated Wire and Cable by Product Segment - Building Wire
+
+
+
+and Cable; Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2007 through 2015 (includes
+
+
+
+corresponding Graph/Chart) 129
+
+
+
+Table 52: Russian Historic Review for Insulated Wire and
+
+
+
+Cable by Product Segment - Building Wire and Cable;
+
+
+
+Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2000 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 130
+
+
+
+Table 53: Russian 11-Year Perspective for Insulated Wire and
+
+
+
+Cable by Product Segment - Percentage Breakdown of Dollar
+
+
+
+Sales for Building Wire and Cable; Electronic Wire and
+
+
+
+Cable; Power Wire and Cable; Telecommunications, Data Wire
+
+
+
+and Cable; and Other Insulated Wires and Cables for Years
+
+
+
+2005, 2010 and 2015 (includes corresponding Graph/Chart) 131
+
+
+
+14g.REST OF EUROPE 132
+
+
+
+A.Market Analysis 132
+
+
+
+Current and Future Analysis 132
+
+
+
+Review of Select Cable & Wire Markets 132
+
+
+
+Poland 132
+
+
+
+Turkey 132
+
+
+
+Wire and Cable Industry - An Overview 132
+
+
+
+Analysis by Sector 133
+
+
+
+Exports Scenario for Wire and Cable 133
+
+
+
+Table 54: Exports of Wire and Cable from Turkey
+
+
+
+(2003-2005) in US$ 000' 133
+
+
+
+Ukraine 133
+
+
+
+Market for Insulated Wire and Cable 133
+
+
+
+B.Market Analytics 134
+
+
+
+Table 55: Rest of Europe Recent Past, Current & Future
+
+
+
+Analysis for Insulated Wire and Cable by Product Segment -
+
+
+
+Building Wire and Cable; Electronic Wire and Cable; Power
+
+
+
+Wire and Cable; Telecommunications, Data Wire and Cable; and
+
+
+
+Other Insulated Wires and Cables Independently Analyzed with
+
+
+
+Annual Sales Figures in US$ Million for Years 2007 through
+
+
+
+2015 (includes corresponding Graph/Chart) 134
+
+
+
+Table 56: Rest of Europe Historic Review for Insulated Wire
+
+
+
+and Cable by Product Segment - Building Wire and Cable;
+
+
+
+Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2000 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 135
+
+
+
+Table 57: Rest of Europe 11-Year Perspective for Insulated
+
+
+
+Wire and Cable by Product Segment - Percentage Breakdown of
+
+
+
+Dollar Sales for Building Wire and Cable; Electronic Wire
+
+
+
+and Cable; Power Wire and Cable; Telecommunications, Data
+
+
+
+Wire and Cable; and Other Insulated Wires and Cables for
+
+
+
+Years 2005, 2010 and 2015 (includes corresponding
+
+
+
+Graph/Chart) 136
+
+
+
+15. ASIA-PACIFIC 137
+
+
+
+A.Market Analysis 137
+
+
+
+Current and Future Analysis 137
+
+
+
+Production Statistics - Historic 137
+
+
+
+Table 58: Production of Wire and Cable (2000-2004) in
+
+
+
+Select Asian Countries (In '000 Tons Conductor) (includes
+
+
+
+corresponding Graph/Chart) 137
+
+
+
+Overview of Coaxial Cables Market in Asia 137
+
+
+
+Overview of Wire and Cable Market in Select Asian Countries 138
+
+
+
+China 138
+
+
+
+Table 59: Chinese Power Cable Demand (2005-2007) in cu Km
+
+
+
+(includes corresponding Graph/Chart) 138
+
+
+
+Market to Experience Double-Digit Growth 139
+
+
+
+Accelerated Development Boosts Demand for Cables 139
+
+
+
+Cable and Wire Output in China 140
+
+
+
+Investment Environment 140
+
+
+
+Overseas Operators/Investors 140
+
+
+
+Leading Overseas Operations in Cable Sector in China 141
+
+
+
+Overview of Coaxial Cable Market in China 141
+
+
+
+Hong Kong 142
+
+
+
+Overview of Coaxial Cable Market 142
+
+
+
+India 142
+
+
+
+Telecom Cable Market Overview 142
+
+
+
+Overview of Power Cable Industry 142
+
+
+
+Wire & Cable Demand 143
+
+
+
+Indonesia 143
+
+
+
+Industry Outlook for the Near Term 143
+
+
+
+Export Import Scenario 144
+
+
+
+South Korea 144
+
+
+
+Taiwan 144
+
+
+
+Overview of the Cable and Wire Market 144
+
+
+
+Coaxial Cable Market 145
+
+
+
+B.Market Analytics 145
+
+
+
+Table 60: Asia-Pacific Recent Past, Current & Future
+
+
+
+Analysis for Insulated Wire and Cable by Product Segment -
+
+
+
+Building Wire and Cable; Electronic Wire and Cable; Power
+
+
+
+Wire and Cable; Telecommunications, Data Wire and Cable; and
+
+
+
+Other Insulated Wires and Cables Independently Analyzed with
+
+
+
+Annual Sales Figures in US$ Million for Years 2007 through
+
+
+
+2015 (includes corresponding Graph/Chart) 145
+
+
+
+Table 61: Asia-Pacific Historic Review for Insulated Wire
+
+
+
+and Cable by Product Segment - Building Wire and Cable;
+
+
+
+Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2000 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 146
+
+
+
+Table 62: Asia-Pacific 11-Year Perspective for Insulated
+
+
+
+Wire and Cable by Product Segment - Percentage Breakdown of
+
+
+
+Dollar Sales for Building Wire and Cable; Electronic Wire
+
+
+
+and Cable; Power Wire and Cable; Telecommunications, Data
+
+
+
+Wire and Cable; and Other Insulated Wires and Cables for
+
+
+
+Years 2005, 2010 and 2015 (includes corresponding
+
+
+
+Graph/Chart) 147
+
+
+
+16. THE MIDDLE EAST 148
+
+
+
+Market Analysis 148
+
+
+
+Table 63: Middle East Recent Past, Current & Future Analysis
+
+
+
+for Insulated Wire and Cable by Product Segment - Building
+
+
+
+Wire and Cable; Electronic Wire and Cable; Power Wire and
+
+
+
+Cable; Telecommunications, Data Wire and Cable; and Other
+
+
+
+Insulated Wires and Cables Independently Analyzed with
+
+
+
+Annual Sales Figures in US$ Million for Years 2007 through
+
+
+
+2015 (includes corresponding Graph/Chart) 148
+
+
+
+Table 64: Middle East Historic Review for Insulated Wire and
+
+
+
+Cable by Product Segment - Building Wire and Cable;
+
+
+
+Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2000 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 149
+
+
+
+Table 65: Middle East 11-Year Perspective for Insulated Wire
+
+
+
+and Cable by Product Segment - Percentage Breakdown of
+
+
+
+Dollar Sales for Building Wire and Cable; Electronic Wire
+
+
+
+and Cable; Power Wire and Cable; Telecommunications, Data
+
+
+
+Wire and Cable; and Other Insulated Wires and Cables for
+
+
+
+Years 2005, 2010 and 2015 (includes corresponding
+
+
+
+Graph/Chart) 150
+
+
+
+17. LATIN AMERICA 151
+
+
+
+A.Market Analysis 151
+
+
+
+Current and Future Analysis 151
+
+
+
+Copper and Fiber Telecom Market 151
+
+
+
+B.Market Analytics 152
+
+
+
+Table 66: Latin America Recent Past, Current & Future
+
+
+
+Analysis for Insulated Wire and Cable by Product Segment -
+
+
+
+Building Wire and Cable; Electronic Wire and Cable; Power
+
+
+
+Wire and Cable; Telecommunications, Data Wire and Cable; and
+
+
+
+Other Insulated Wires and Cables Independently Analyzed with
+
+
+
+Annual Sales Figures in US$ Million for Years 2007 through
+
+
+
+2015 (includes corresponding Graph/Chart) 152
+
+
+
+Table 67: Latin America Historic Review for Insulated Wire
+
+
+
+and Cable by Product Segment - Building Wire and Cable;
+
+
+
+Electronic Wire and Cable; Power Wire and Cable;
+
+
+
+Telecommunications, Data Wire and Cable; and Other Insulated
+
+
+
+Wires and Cables Independently Analyzed with Annual Sales
+
+
+
+Figures in US$ Million for Years 2000 through 2006 (includes
+
+
+
+corresponding Graph/Chart) 153
+
+
+
+Table 68: Latin America 11-Year Perspective for Insulated
+
+
+
+Wire and Cable by Product Segment - Percentage Breakdown of
+
+
+
+Dollar Sales for Building Wire and Cable; Electronic Wire
+
+
+
+and Cable; Power Wire and Cable; Telecommunications, Data
+
+
+
+Wire and Cable; and Other Insulated Wires and Cables for
+
+
+
+Years 2005, 2010 and 2015 (includes corresponding
+
+
+
+Graph/Chart) 154
+
+
+
+COMPETITION
+
+
+
+Total Companies Profiled: 273 (including Divisions/Subsidiaries - 353)
+
+
+
+------------------------------------------
+
+
+
+Region/Country Players
+
+
+
+------------------------------------------
+
+
+
+The United States 154
+
+
+
+Canada 3
+
+
+
+Japan 10
+
+
+
+Europe 129
+
+
+
+France 11
+
+
+
+Germany 24
+
+
+
+The United Kingdom 31
+
+
+
+Italy 15
+
+
+
+Spain 5
+
+
+
+Rest of Europe 43
+
+
+
+Asia-Pacific (Excluding Japan) 52
+
+
+
+Latin America 2
+
+
+
+Africa 1
+
+
+
+Middle East 1
+
+
+
+Caribbean 1
+
+
+
+------------------------------------------
+
+
+
+To order this report:
+
+
+
+Network Equipment Industry: Global Insulated Wire And Cable Industry
+
+
+
+Network Equipment Business News
+
+
+
+More Market Research Report
+
+
+
+Check our Company Profile, SWOT and Revenue Analysis!
+
+Contact:
+
+Nicolas Bombourg
+
+Reportlinker
+
+Email: nbo@reportlinker.com
+
+US: (805)652-2626
+
+Intl: +1 805-652-2626
+
+
+
+SOURCE Reportlinker
+
+
+
+
+
+
+
+CONTACT:Nicolas Bombourg, Reportlinker, +1-805-652-2626, nbo@reportlinker.com
+
+
+
+URL: http://www.prnewswire.com
+
+
+
+LOAD-DATE: November 16, 2010
+
+
+
+LANGUAGE: ENGLISH
+
+
+
+PUBLICATION-TYPE: Newswire
+
+
+
+
+
+                   Copyright 2010 PR Newswire Association LLC
+
+                              All Rights Reserved
+
+
+
+
+
